@@ -5,8 +5,8 @@ jobs:
     name: Sphinx Pages
     runs-on: ubuntu-latest
     steps:
-      - uses: seanzhengw/sphinx-pages@master
-        id: sphinx-pages
+      - uses: PascalRombach/dnd-tables@master
+        id: dnd-tables
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           create_readme: true
