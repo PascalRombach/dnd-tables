@@ -109,9 +109,9 @@ class RollingTable(Directive):
 
     def run(self):
         if "die" not in self.options.keys():
-            raise ValueError("rollingtable requires :die: option")
+            self.error("rollingtable requires :die: option")
         if "result_titles" not in self.options.keys():
-            raise ValueError("rollingtable requires :result_titles: option")
+            self.error("rollingtable requires :result_titles: option")
 
         
         table= nodes.table(classes=["rollingtable"])
@@ -145,7 +145,7 @@ class RollingTableEntry(Directive):
 
     def run(self):
         if not {"min","max"}.issubset(set(self.options.keys())):
-            raise ValueError("options :min: and :max: are required for rtable_entry")
+            self.error("options :min: and :max: are required for rtable_entry")
               
         
         row= nodes.row()
