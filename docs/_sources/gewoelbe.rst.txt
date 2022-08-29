@@ -1,5 +1,5 @@
 Zufallsgewölbe
-==============
+==================
 
 
 .. _Lage des Gewölbes:
@@ -152,9 +152,9 @@ Lage des Gewölbes
         :min: 96
         :max: 100
         
-        Würfele auf der Tabelle :ref:`test`
+        Würfele auf der Tabelle :ref:`Exotische Lagen`
 
-.. _test:
+.. _Exotische Lagen:
 
 Exotische Lagen
 ~~~~~~~~~~~~~~~
@@ -352,6 +352,7 @@ Erbauer des Gewölbes
     .. rtable_entry::
         :min: 19
         :max: 19
+        
         Yuan-Ti
     
     .. rtable_entry::
