@@ -165,7 +165,7 @@ class RollingTableEntry(Directive):
 
 def dice_role(name, rawtext, text, lineno, inliner, options=None, content=None):
     return [
-        nodes.paragraph(classes=["roll"],text=text)
+        nodes.inline(classes=["roll"],text=text)
     ], []
     pass
 
