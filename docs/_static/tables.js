@@ -21,19 +21,8 @@ const split_number_repr= (string, sep) => {
     let [a, b]= string.split(sep,2);
     return [Number.parseInt(a), Number.parseInt(b)];
 }
-const get_die_info= (die_string) => {
-    return split_number_repr(die_string,"d");
-};
 const parse_range_str= (string) => {
     return split_number_repr(string,"-");
-}
-
-const roll_dice= (n, d) => {
-    let res= 0;
-    for (let i= 0; i < n; i++){
-        res+= Math.floor((d*Math.random()))+1; // +1 to get <d> being inclusive and 0 exclusive
-    }
-    return res;
 }
 
 const find_selected_element= (tbody, value) => {
@@ -56,7 +45,7 @@ const add_randomiser= (table) => {
     prepare_table(tbody);
 
     let die_text= table.getElementsByTagName("th")[0];
-    let [n, d]= get_die_info(die_text.innerText);
+    let dice_info= decode_die_string(die_text.innerText);
 
     let die_button= document.createElement("button");
     die_button.innerText= die_text.innerText;
@@ -70,7 +59,7 @@ const add_randomiser= (table) => {
             tbody.children[i].classList.remove(SELECTED_CLASS_NAME);
         }
 
-        let res= roll_dice(n,d);
+        let res= roll_dice(dice_info);
         console.debug(`Rolled ${res}`);
         
         let selection= find_selected_element(tbody,res);
