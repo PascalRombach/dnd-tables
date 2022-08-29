@@ -1,6 +1,7 @@
 from docutils.parsers.rst import Directive
 from docutils import nodes
 from sphinx.application import Sphinx
+from docutils.parsers.rst.states import Body
 
 def decode_die_string(die: str) -> tuple[int,int]:
     try:
@@ -103,7 +104,7 @@ class RollingTable(Directive):
     has_content= True
     option_spec= {
         "die": str,
-        "result_titles": str
+        "result_titles": str,
     }
 
     def run(self):
@@ -112,21 +113,58 @@ class RollingTable(Directive):
         if "result_titles" not in self.options.keys():
             raise ValueError("rollingtable requires :result_titles: option")
 
-        # die= decode_die_string(self.options["die"])
-        entries= decode_content(self.content)
+        
+        table= nodes.table(classes=["rollingtable"])
+        tgroup= nodes.tgroup(cols=2)
+        
+        thead= nodes.thead()
+        thead+= make_row((self.options["die"],self.options.get("result_titles","result")))
+        tgroup+= thead
+        
+        tbody= nodes.tbody()
+        self.state.nested_parse(self.content,self.content_offset,tbody)
+        tgroup+= tbody
 
-        csv_data= [(f"{low}-{high}",description) for low, high, description in entries]
 
-        return [make_table(
-            (self.options["die"],self.options["result_titles"]),
-            csv_data,
-            ["rollingtable"]
-            )]
+        rows_count= len(tbody)+1 # Count thead as well
+        for i in range(2):
+            tgroup.insert(0,nodes.colspec(colwidth=rows_count))
+            pass
+
+        table+= tgroup
+        return [table]
+        pass
+    pass
+
+class RollingTableEntry(Directive):
+    has_content= True
+    option_spec= {
+        "min": int,
+        "max": int
+    }
+
+    def run(self):
+        if not {"min","max"}.issubset(set(self.options.keys())):
+            raise ValueError("options :min: and :max: are required for rtable_entry")
+              
+        
+        row= nodes.row()
+        
+        d_entry= nodes.entry()
+        d_entry+= nodes.paragraph(text=f"{self.options['min']}-{self.options['max']}")
+        row+= d_entry
+
+        res_entry= nodes.entry()
+        self.state.nested_parse(self.content,self.content_offset,res_entry)
+        row+= res_entry
+
+        return [row]
         pass
     pass
 
 def setup(app: Sphinx):
     app.add_directive("rollingtable",RollingTable)
+    app.add_directive("rtable_entry",RollingTableEntry)
 
     return {
         "version": "0.1",
