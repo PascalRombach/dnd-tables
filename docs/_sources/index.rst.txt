@@ -14,6 +14,7 @@ D&D Tabellen
    gottheiten
    wetter
    orte_in_der_wildnis
+   zufallssiedlungen
 
 
 Indexe und Tabellen
