@@ -32,7 +32,9 @@ language = 'de'
 html_theme = 'alabaster'
 html_static_path = ['_static']
 html_js_files = [
-    "tables.js"
+    "tables.js",
+    "rolls.js",
+    "common_funcs.js"
 ]
 html_css_files = [
     "tables.css"

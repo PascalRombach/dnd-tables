@@ -162,9 +162,17 @@ class RollingTableEntry(Directive):
         pass
     pass
 
+
+def dice_role(name, rawtext, text, lineno, inliner, options=None, content=None):
+    return [
+        nodes.paragraph(classes=["roll"],text=text)
+    ], []
+    pass
+
 def setup(app: Sphinx):
     app.add_directive("rollingtable",RollingTable)
     app.add_directive("rtable_entry",RollingTableEntry)
+    app.add_role("roll",dice_role)
 
     return {
         "version": "0.1",
