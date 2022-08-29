@@ -17,7 +17,8 @@ author = 'Fisch37'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    "rollingtables"
+    "rollingtables",
+    "sphinx.ext.autosectionlabel"
 ]
 
 templates_path = ['_templates']

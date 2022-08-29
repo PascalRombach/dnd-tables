@@ -2,8 +2,6 @@ Zufallsgewölbe
 ==================
 
 
-.. _Lage des Gewölbes:
-
 Lage des Gewölbes
 ~~~~~~~~~~~~~~~~~
 .. rollingtable::
@@ -154,8 +152,6 @@ Lage des Gewölbes
         
         Würfele auf der Tabelle :ref:`Exotische Lagen`
 
-.. _Exotische Lagen:
-
 Exotische Lagen
 ~~~~~~~~~~~~~~~
 .. rollingtable:: 
@@ -281,8 +277,6 @@ Exotische Lagen
         
         In einem *Mordenkainens Herrliches Herrenhaus*
 
-.. _Erbauer des Gewölbes:
-
 Erbauer des Gewölbes
 ~~~~~~~~~~~~~~~~~~~~
 .. rollingtable:: 
@@ -360,8 +354,6 @@ Erbauer des Gewölbes
         :max: 20
         
         Kein Erbauer (natürliche Höhlen)
-
-.. _Kulte und religiöse Gruppen:
 
 Kulte und religiöse Gruppen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -563,8 +555,6 @@ NSC-Klassen
 
         Magier
 
-.. _Zweck des Gewölbes:
-
 Zweck des Gewölbes
 ~~~~~~~~~~~~~~~~~~
 .. rollingtable:: 
@@ -624,8 +614,6 @@ Zweck des Gewölbes
         :max: 20
 
         Schatzkammer
-
-.. _Gewölbegeschichte:
 
 Gewölbegeschichte
 ~~~~~~~~~~~~~~~~~
