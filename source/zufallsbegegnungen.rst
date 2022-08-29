@@ -436,4 +436,220 @@ Arktisbegegnungen (Stufe 5-10)
 
         :roll:`2d4` **Junge Remorhazen**
 
+Arktisbegegnungen (Stufe 11-16)
+-------------------------------
+.. rollingtable:: 
+    :die: 1d100
+    :result_titles: Begegnung
+
+    .. rtable_entry:: 
+        :min: 1
+        :max: 1
+
+        1 **Abscheulicher Yeti**
+    
+    .. rtable_entry:: 
+        :min: 2
+        :max: 4
+
+        :roll:`1d6` **Wiedergänger**
+    
+    .. rtable_entry:: 
+        :min: 5
+        :max: 10
+
+        :roll:`1d4+1` **Werbären**
+    
+    .. rtable_entry:: 
+        :min: 11
+        :max: 20
+
+        :roll:`1d3` **Junge weißen Drachen**
+    
+    .. rtable_entry:: 
+        :min: 21
+        :max: 25
+
+        Ein Schneesturm, der die Sichtweite für :roll:`1d6` Stunden auf 1,50m reduziert.
+    
+    .. rtable_entry:: 
+        :min: 26
+        :max: 35
+
+        1 **Roch**
+
+    .. rtable_entry:: 
+        :min: 36
+        :max: 40
+
+        Eine Herde von :roll:`3d20+60` Karibus (**Reh**), die durch den Schnee ziehen.
+    
+    .. rtable_entry:: 
+        :min: 41
+        :max: 50
+
+        :roll:`1d4` **Mammuts**
+    
+    .. rtable_entry:: 
+        :min: 51
+        :max: 60
+
+        :roll:`1d8+1` **Trolle**
+
+    .. rtable_entry:: 
+        :min: 61
+        :max: 65
+
+        Ein 1,5km breiter, zugefrorener See, in dem die konservierten Kadaber seltsamer Kreaturen zu sehen sind.
+    
+    .. rtable_entry:: 
+        :min: 66
+        :max: 75
+
+        :roll:`2d4` **Junge Remorhazzen**
+    
+    .. rtable_entry:: 
+        :min: 76
+        :max: 80
+
+        Ein zerfallendes Eisschloss voller starrgefrorener Leichen von blauhäutigen Humanoiden
+    
+    .. rtable_entry:: 
+        :min: 81
+        :max: 90
+
+        1 **Ausgewachsener weißer Drache**
+
+    .. rtable_entry:: 
+        :min: 91
+        :max: 96
+
+        :roll:`1d8+1` **Frostriesen**
+    
+    .. rtable_entry:: 
+        :min: 97
+        :max: 99
+
+        :roll:`1d4` **Remorhazzen**
+    
+    .. rtable_entry:: 
+        :min: 100
+        :max: 100
+
+        1 **Uralter weißer Drache**
+
+Arktisbegegnungen (Stufe 17-20)
+-------------------------------
+.. rollingtable:: 
+    :die: 1d100
+    :result_titles: Begegnung
+
+    .. rtable_entry:: 
+        :min: 1
+        :max: 2
+
+        :roll:`2d10` **Wiedergänger**
+
+    .. rtable_entry:: 
+        :min: 3
+        :max: 4
+
+        :roll:`2d8` **Trolle**
+    
+    .. rtable_entry:: 
+        :min: 5
+        :max: 6
+
+        :roll:`2d10` **Werbären**
+    
+    .. rtable_entry:: 
+        :min: 7
+        :max: 8
+
+        1 **Frostriese**
+    
+    .. rtable_entry:: 
+        :min: 9
+        :max: 10
+
+        :roll:`2d4` **Junge Remorhazzen**
+    
+    .. rtable_entry::
+        :min: 11
+        :max: 20
+
+        :roll:`1d4` **Frostriesen**
+    
+    .. rtable_entry:: 
+        :min: 21
+        :max: 25
+
+        Eine kreisrunde Stelle von schwarzem Eis auf dem Boden. Die Lufttemperatur um die Stelle ist wärmer als in der Umgebung, und Charaktere, die sich die Stelle näher betrachten, stellen fest, dass dort Maschinenteile im Eis eingeschlossen sind.
+    
+    .. rtable_entry:: 
+        :min: 26
+        :max: 35
+
+        1 **Uralter weißer Drache**
+    
+    .. rtable_entry:: 
+        :min: 36
+        :max: 40
+
+        Ein Abenteurer, 1,80m unter dem Eis eingefroren; Chance von 50%, dass der Leichnam einen seltenen magischen Gegenstand nach Wahl des SLs bei sich trägt.
+    
+    .. rtable_entry:: 
+        :min: 41
+        :max: 50
+
+        :roll:`1d3` **Abscheuliche Yetis**
+    
+    .. rtable_entry::
+        :min: 51
+        :max: 60
+
+        :roll:`1d4` **Remorhazzen**
+    
+    .. rtable_entry:: 
+        :min: 61
+        :max: 65
+
+        Eine 150m hohe Mauer aus Eis, die 90m dick ist und sich über eine Strecke von :roll:`1d4` x1,5km erstreckt.
+    
+    .. rtable_entry:: 
+        :min: 66
+        :max: 75
+
+        :roll:`1d4` **Rochs**
+    
+    .. rtable_entry:: 
+        :min: 76
+        :max: 80
+
+        Das Abbild einer ernst wirkenden Frau mit langen wallenden Haaren, das in die Seite eines Berges gehauen wurde.
+    
+    .. rtable_entry:: 
+        :min: 81
+        :max: 90
+
+        :roll:`1d10` **Frostriesen** mit :roll:`2d4` **Eisbären**
+    
+    .. rtable_entry:: 
+        :min: 91
+        :max: 96
+
+        :roll:`1d3` **Ausgewachsene weiße Drachen**
+    
+    .. rtable_entry:: 
+        :min: 97
+        :max: 99
+
+        :roll:`2d4` **Abscheuliche Yetis**
+    
+    .. rtable_entry:: 
+        :min: 100
+        :max: 100
+
+        1 **Uralte weiße Drachen** mit :roll:`1d3` **Jungen weißen Drachen**
+
 *XGE (DE) S. 92-112*
