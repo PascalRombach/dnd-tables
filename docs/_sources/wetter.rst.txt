@@ -17,13 +17,13 @@ Temperatur
         :min: 15
         :max: 17
 
-        1d4x6 °C kälter als normal
+        :roll:`1d4` x6 °C kälter als normal
     
     .. rtable_entry::
         :min: 18
         :max: 20
 
-        1d4x6 °C wärmer als normal
+        :roll:`1d4` x6 °C wärmer als normal
 
 Wind
 ~~~~
