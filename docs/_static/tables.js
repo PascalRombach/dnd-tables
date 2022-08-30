@@ -68,6 +68,12 @@ const add_randomiser= (table) => {
         }
         selection.classList.add(SELECTED_CLASS_NAME);
         if (!isElementInViewport(selection)) selection.scrollIntoView();
+
+        // Automatically trigger all rolls in the selection
+        let rolls= selection.getElementsByClassName("roll");
+        for (let i= 0; i < rolls.length; i++){
+            rolls[i].firstChild.click();
+        }
     };
 };
 
