@@ -143,7 +143,7 @@ Seltsame Örtlichkeiten
         :min: 9
         :max: 10
         
-        Ein permanentes Portal auf eine andere Abene der Existenz
+        Ein permanentes Portal auf eine andere Ebene der Existenz
     
     .. rtable_entry::
         :min: 11
