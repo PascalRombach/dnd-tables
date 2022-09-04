@@ -4245,6 +4245,384 @@ Stadtbegegnungen (Stufe 5-10)
         :max: 100
 
         1 **Rakshasa** oder 1 **Vampir**
+    
+Stadtbegegnungen (Stufe 11-16)
+------------------------------
+.. rollingtable:: 
+    :die: 1d100
+    :result_titles: Begegnung
+
+    .. rtable_entry:: 
+        :min: 1
+        :max: 1
+
+        1 **Mimik**
+    
+    .. rtable_entry:: 
+        :min: 2
+        :max: 5
+
+        1 **Banditenhauptmann** mit :roll:`5d10` **Banditen**, alle auf **Reitpferden**
+    
+    .. rtable_entry:: 
+        :min: 6
+        :max: 10
+
+        :roll:`1d10` **Ritter** auf **Streitrössern** (ein Ritter ist ein **Doppelgänger**)
+    
+    .. rtable_entry:: 
+        :min: 11
+        :max: 13
+
+        :roll:`1d8` **Sukkubi** oder :roll:`1d8` **Inkubus**
+    
+    .. rtable_entry:: 
+        :min: 14
+        :max: 16
+
+        :roll:`3d6` **Kultfanatiker**
+    
+    .. rtable_entry:: 
+        :min: 17
+        :max: 19
+
+        :roll:`1d10` **Gruftschrecken**
+    
+    .. rtable_entry:: 
+        :min: 20
+        :max: 22
+
+        :roll:`3d6` **Werratten**
+    
+    .. rtable_entry:: 
+        :min: 23
+        :max: 25
+
+        Ein Knall in der Ferne, gefolgt von einer Rauchwolke, die über der anderen Seite der Ortschaft aufsteigt.
+    
+    .. rtable_entry:: 
+        :min: 26
+        :max: 28
+
+        :roll:`1d8+1` **Geister**
+    
+    .. rtable_entry:: 
+        :min: 29
+        :max: 31
+
+        :roll:`2d10` **Gargylen**
+    
+    .. rtable_entry:: 
+        :min: 32
+        :max: 34
+
+        :roll:`1d6+2` **Wassergeister**
+    
+    .. rtable_entry:: 
+        :min: 35
+        :max: 37
+
+        :roll:`1d4+4` Irrlichter
+    
+    .. rtable_entry:: 
+        :min: 38
+        :max: 40
+
+        Straßenkünstler führen ein Puppenspiel auf. Zwei Puppen schlagen sich gegenseitig mit Stöcken, zur Freude der versammelten Zuschauer.
+    
+    .. rtable_entry:: 
+        :min: 41
+        :max: 43
+
+        :roll:`2d4` **Couatl**
+    
+    .. rtable_entry:: 
+        :min: 44
+        :max: 46
+
+        :roll:`2d8` **Grule**
+    
+    .. rtable_entry:: 
+        :min: 47
+        :max: 51
+
+        :roll:`1d8+1` **Veteranen**
+    
+    .. rtable_entry:: 
+        :min: 52
+        :max: 55
+
+        :roll:`3d4` **Priester**
+    
+    .. rtable_entry:: 
+        :min: 56
+        :max: 58
+
+        :roll:`2d4` **Cambions**
+    
+    .. rtable_entry:: 
+        :min: 59
+        :max: 61
+
+        :roll:`1d10` **Wiedergänger**
+    
+    .. rtable_entry:: 
+        :min: 62
+        :max: 65
+
+        :roll:`2d4` **Phasenspinnen**
+
+    .. rtable_entry:: 
+        :min: 66
+        :max: 69
+
+        Ein heruntergekommener **Gemeiner**, der sich in eine Gasse duckt und einen Kauf bei einer verdächtig aussehenden Gestalt tätigt.
+    
+    .. rtable_entry::
+        :min: 70
+        :max: 72
+
+        :roll:`1d8` **Unsichtbare Pirscher**
+    
+    .. rtable_entry:: 
+        :min: 73
+        :max: 75
+
+        :roll:`1d8+1` **Gladiatoren**
+    
+    .. rtable_entry::
+        :min: 76
+        :max: 80
+
+        Zwei Bauern, die sich wegen des Preises von Kartoffeln prügeln (50% Chance, dass einer der Bauern ein **Assasine** im Ruhestand ist)
+    
+    .. rtable_entry:: 
+        :min: 81
+        :max: 82
+
+        :roll:`1d4` **Junge Silberdrachen**
+    
+    .. rtable_entry:: 
+        :min: 83
+        :max: 84
+
+        :roll:`1d4` **Assassinen**
+    
+    .. rtable_entry:: 
+        :min: 85
+        :max: 86
+
+        :roll:`1d8` **Oni**
+    
+    .. rtable_entry:: 
+        :min: 87
+        :max: 88
+
+        :roll:`1d4` **Magi** mit :roll:`1d4` **Schildwächter**
+    
+    .. rtable_entry:: 
+        :min: 89
+        :max: 90
+
+        :roll:`1d10` **Vampirbruten**
+    
+    .. rtable_entry:: 
+        :min: 91
+        :max: 92
+
+        1 **Ausgewachsener Silberdrache**
+    
+    .. rtable_entry:: 
+        :min: 93
+        :max: 94
+
+        :roll:`1d4` **Graue Slaadi**
+    
+    .. rtable_entry:: 
+        :min: 95
+        :max: 96
+
+        1 **Vampir-Zauberwirker** oder 1 **Vampir-Krieger**
+    
+    .. rtable_entry:: 
+        :min: 97
+        :max: 97
+
+        1 **Erzmagus**, der die Straße auf einem **Reitpferd** heruntereilt und :roll:`1d6` **Wachen** mit Zaubern angreift.
+    
+    .. rtable_entry:: 
+        :min: 98
+        :max: 98
+
+        1 **Rakshasa**
+    
+    .. rtable_entry:: 
+        :min: 99
+        :max: 99
+
+        1 **Vampir**
+    
+    .. rtable_entry:: 
+        :min: 100
+        :max: 100
+
+        1 **Uralter Silberdrache**
+    
+Stadtbegegnungen (Stufe 17-20)
+------------------------------
+.. rollingtable:: 
+    :die: 1d100
+    :result_titles: Begegnung
+
+    .. rtable_entry:: 
+        :min: 1
+        :max: 5
+
+        :roll:`1d10` **Unsichtbarer Pirscher**
+
+    .. rtable_entry:: 
+        :min: 6
+        :max: 10
+
+        :roll:`1d10` **Wiedergänger**
+    
+    .. rtable_entry:: 
+        :min: 11
+        :max: 14
+
+        :roll:`1d6+2` **Gladiatoren**
+    
+    .. rtable_entry:: 
+        :min: 15
+        :max: 18
+
+        :roll:`2d4` **Cambions**
+    
+    .. rtable_entry:: 
+        :min: 19
+        :max: 22
+
+        :roll:`2d8` **Sukkubi** oder :roll:`2d6` **Inkubi**
+    
+    .. rtable_entry:: 
+        :min: 23
+        :max: 25
+
+        Eine Hexe (**Erzmagus**), die auf einem *Flugbesen* über den Köpfen herfliegt.
+    
+    .. rtable_entry:: 
+        :min: 26
+        :max: 30
+
+        :roll:`1d4` **Graue Slaadi**
+    
+    .. rtable_entry:: 
+        :min: 31
+        :max: 35
+
+        :roll:`2d8` **Couatl**
+    
+    .. rtable_entry:: 
+        :min: 36
+        :max: 40
+
+        Ein verzweifelter Elternteil, der Passanten um Hilfe anfleht, weil ein Kind in die Kanalisation gefallen ist.
+    
+    .. rtable_entry:: 
+        :min: 41
+        :max: 45
+
+        :roll:`1d3` **Junge Silberdrachen**
+    
+    .. rtable_entry:: 
+        :min: 46
+        :max: 50
+
+        :roll:`3d6` **Geister**
+    
+    .. rtable_entry:: 
+        :min: 51
+        :max: 55
+
+        1 **Ausgewachsener Silberdrache**
+    
+    .. rtable_entry:: 
+        :min: 56
+        :max: 60
+
+        :roll:`1d4` **Magi** mit :roll:`1d4` **Schildwächter**
+    
+    .. rtable_entry:: 
+        :min: 61
+        :max: 65
+
+        Ein aggressiver Händler, der Passanten Waren feilbietet und behauptet, er liefere die feinste Seide weit und breit.
+    
+    .. rtable_entry:: 
+        :min: 66
+        :max: 70
+
+        1 **Uralte Silberdrache**
+    
+    .. rtable_entry:: 
+        :min: 71
+        :max: 75
+
+        :roll:`3d6` **Vampirbruten**
+    
+    .. rtable_entry:: 
+        :min: 76
+        :max: 80
+
+        Eine Patrouille von :roll:`2d10` **Wachen**, welche die Straße entlangmarschieren und nach jemandem suchen
+    
+    .. rtable_entry:: 
+        :min: 81
+        :max: 85
+
+        :roll:`1d10` **Assassinen**
+    
+    .. rtable_entry:: 
+        :min: 86
+        :max: 90
+
+        :roll:`1d4+1` **Graue Slaadi**
+    
+    .. rtable_entry:: 
+        :min: 91
+        :max: 93
+
+        :roll:`1d10` **Oni**
+    
+    .. rtable_entry:: 
+        :min: 94
+        :max: 96
+
+        1 **Vampir-Zauberwirker** oder 1 **Vampir-Krieger**
+    
+    .. rtable_entry:: 
+        :min: 97
+        :max: 97
+
+        :roll:`1d4` **Erzmagi**
+    
+    .. rtable_entry:: 
+        :min: 98
+        :max: 98
+
+        :roll:`1d3` **Rakshasa**
+    
+    .. rtable_entry:: 
+        :min: 99
+        :max: 99
+
+        :roll:`1d4` **Vampire**
+    
+    .. rtable_entry:: 
+        :min: 100
+        :max: 100
+
+        1 **Tarraske**
 
 Sumpfbegegnungen
 ~~~~~~~~~~~~~~~~
