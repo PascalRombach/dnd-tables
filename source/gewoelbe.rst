@@ -323,7 +323,7 @@ Erbauer des Gewölbes
         :min: 12
         :max: 15
         
-        Menschen (Würfele auf der Tabelle "NSC-Gesinnung und NSC-Klassen", um konkretere Details zu bestimmen)
+        Menschen (Würfele auf der Tabelle :ref:`NSC-Gesinnung<nsc-gesinnung>` und :ref:`NSC-Klassen<nsc-klassen>`, um konkretere Details zu bestimmen)
     
     .. rtable_entry::
         :min: 16
