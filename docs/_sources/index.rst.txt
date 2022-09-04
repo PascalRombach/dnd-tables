@@ -16,6 +16,7 @@ D&D Tabellen
    orte_in_der_wildnis
    zufallssiedlungen
    zufallsbegegnungen
+   kampagnenereignisse
 
 
 Indexe und Tabellen
