@@ -10,8 +10,8 @@ sys.path.append(os.path.abspath("./_ext"))
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'D&D Tabellen'
-copyright = '2022, Fisch37'
-author = 'Fisch37'
+copyright = '2022, Pascal Rombach'
+author = 'Pascal Rombach'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
