@@ -6211,6 +6211,395 @@ Underdark-Begegnungen (Stufe 5-10)
 
 Underdark-Begegnungen (Stufe 11-16)
 -----------------------------------
+.. rollingtable:: 
+    :die: 1d100
+    :result_titles: Begegnung
+
+    .. rtable_entry:: 
+        :min: 1
+        :max: 2
+
+        :roll:`3d6` **Aaskriecher**
+    
+    .. rtable_entry:: 
+        :min: 3
+        :max: 4
+
+        :roll:`1d6+1` **Gallertwürfel**
+    
+    .. rtable_entry::
+        :min: 5
+        :max: 6
+
+        :roll:`1d8+2` **Plappernde Hundermäuler**
+    
+    .. rtable_entry:: 
+        :min: 7
+        :max: 8
+
+        :roll:`2d8` **Minotaurus-Skelette**
+    
+    .. rtable_entry:: 
+        :min: 9
+        :max: 10
+
+        :roll:`2d6` **Ockergallerten**
+    
+    .. rtable_entry:: 
+        :min: 11
+        :max: 12
+
+        :roll:`2d4` **Doppelgänger**
+    
+    .. rtable_entry:: 
+        :min: 13
+        :max: 14
+
+        :roll:`1d4` **Quaggoth-Thonots** mit :roll:`1d10+2` **Quaggoths**
+    
+    .. rtable_entry:: 
+        :min: 15
+        :max: 16
+
+        :roll:`1d3` **Seiler**
+    
+    .. rtable_entry:: 
+        :min: 17
+        :max: 18
+
+        :roll:`3d6` **Gargylen**
+    
+    .. rtable_entry:: 
+        :min: 19
+        :max: 20
+
+        :roll:`1d10` **Mimiks**
+    
+    .. rtable_entry:: 
+        :min: 21
+        :max: 25
+
+        Eine 30m lange Felsspalte, :roll:`4d10` x0,3m breit und :roll:`5d20+200` x0,3m tief.
+    
+    .. rtable_entry:: 
+        :min: 26
+        :max: 27
+
+        1 **Hobgoblin-Hauptmann** mit :roll:`3d10` **Hobgoblins**
+    
+    .. rtable_entry:: 
+        :min: 28
+        :max: 29
+
+        :roll:`2d4` **Beobachter**
+    
+    .. rtable_entry:: 
+        :min: 30
+        :max: 31
+
+        :roll:`3d6` **Grule**
+    
+    .. rtable_entry:: 
+        :min: 32
+        :max: 33
+
+        :roll:`2d8` **Intellektverschlinger**
+    
+    .. rtable_entry:: 
+        :min: 34
+        :max: 35
+
+        :roll:`1d3` **Ork -- Augen des Gruumsh** mit :roll:`2d4` **Orogs** und :roll:`2d10` **Orks**
+    
+    .. rtable_entry:: 
+        :min: 36
+        :max: 40
+
+        Eine große Höhle, welche :roll:`2d10` außerordentlich detaillierte Statuen, verschiedenster Kreaturen enthält.
+    
+    .. rtable_entry:: 
+        :min: 41
+        :max: 42
+
+        :roll:`1d8+1` **Kuo-toa-Monitor**
+    
+    .. rtable_entry:: 
+        :min: 43
+        :max: 44
+
+        :roll:`2d4` **Wassergeister**
+    
+    .. rtable_entry:: 
+        :min: 45
+        :max: 46
+
+        :roll:`2d10` **Gricks**
+    
+    .. rtable_entry:: 
+        :min: 47
+        :max: 48
+
+        :roll:`3d6` **Nothics**
+    
+    .. rtable_entry:: 
+        :min: 49
+        :max: 50
+
+        :roll:`2d8+1` **Oger**
+    
+    .. rtable_entry:: 
+        :min: 51
+        :max: 52
+
+        :roll:`1d6+2` **Chuuls**
+    
+    .. rtable_entry:: 
+        :min: 53
+        :max: 54
+
+        :roll:`1d8+1` **Ettins**
+    
+    .. rtable_entry:: 
+        :min: 55
+        :max: 55
+
+        :roll:`3d6` **Grells**
+    
+    .. rtable_entry:: 
+        :min: 56
+        :max: 56
+
+        :roll:`2d4` **Flammenschädel**
+    
+    .. rtable_entry:: 
+        :min: 57
+        :max: 57
+
+        :roll:`2d12` Zwergen-Soldaten (**Veteranen**) auf Patrouille
+    
+    .. rtable_entry:: 
+        :min: 58
+        :max: 58
+
+        :roll:`2d8` **Höllenhunde**
+    
+    .. rtable_entry:: 
+        :min: 59
+        :max: 59
+
+        :roll:`1d10` **Geister**
+    
+    .. rtable_entry:: 
+        :min: 60
+        :max: 60
+
+        :roll:`3d4` **Gruftschrecken**
+    
+    .. rtable_entry:: 
+        :min: 61
+        :max: 61
+
+        :roll:`3d6` **Phasenspinnen**
+    
+    .. rtable_entry:: 
+        :min: 62
+        :max: 62
+
+        :roll:`1d8+1` **Knochennagi**
+    
+    .. rtable_entry:: 
+        :min: 63
+        :max: 65
+
+        Ein schrilller Schrei, gefolgt von düsterem Gelächter.
+    
+    .. rtable_entry:: 
+        :min: 66
+        :max: 66
+
+        :roll:`1d4` **Chimären**
+    
+    .. rtable_entry:: 
+        :min: 67
+        :max: 67
+
+        :roll:`1d10` **Schwarze Blobs**
+    
+    .. rtable_entry:: 
+        :min: 68
+        :max: 68
+
+        :roll:`3d6` **Minotauren**
+    
+    .. rtable_entry:: 
+        :min: 69
+        :max: 69
+
+        :roll:`2d4` **Otyughs**
+    
+    .. rtable_entry:: 
+        :min: 70
+        :max: 70
+
+        :roll:`1d6+1` **Betrachter-Zombies**
+    
+    .. rtable_entry:: 
+        :min: 71
+        :max: 71
+
+        :roll:`4d4` **Hakenschrecken**
+    
+    .. rtable_entry:: 
+        :min: 72
+        :max: 72
+
+        :roll:`1d8+1` **Erdkolosse**
+    
+    .. rtable_entry:: 
+        :min: 73
+        :max: 73
+
+        :roll:`2d4` **Salamander**
+    
+    .. rtable_entry:: 
+        :min: 74
+        :max: 74
+
+        :roll:`1d3` **Grick-Alphas**
+    
+    .. rtable_entry:: 
+        :min: 75
+        :max: 75
+
+        :roll:`1d6+2` **Xorns**
+    
+    .. rtable_entry:: 
+        :min: 76
+        :max: 80
+
+        Ein zerstörtes Dorf, das einmal Tiefengnomen gehört hat. Wird es durchsucht, besteht eine Chance von 50% :roll:`1d3` *Heiltränke* zu finden, und eine Chance von 25% einen zufälligen gewöhnlichen magischen Gegenstand zu finden.
+    
+    .. rtable_entry:: 
+        :min: 81
+        :max: 81
+
+        :roll:`2d4` **Erdelementare**
+    
+    .. rtable_entry:: 
+        :min: 82
+        :max: 82
+
+        :roll:`1d3` **Geisternagi**
+    
+    .. rtable_entry:: 
+        :min: 83
+        :max: 83
+
+        :roll:`1d8+1` **Zyklopen**
+    
+    .. rtable_entry:: 
+        :min: 84
+        :max: 84
+
+        :roll:`1d6+2` **Trolle**
+    
+    .. rtable_entry:: 
+        :min: 85
+        :max: 85
+
+        :roll:`2d4` **Steinriesen**
+
+    .. rtable_entry::
+        :min: 86
+        :max: 86
+
+        :roll:`2d4` **Todesalben**
+    
+    .. rtable_entry::
+        :min: 87
+        :max: 87
+
+        :roll:`1d4` **Fomorianer**
+
+    .. rtable_entry:: 
+        :min: 88
+        :max: 88
+
+        :roll:`1d3` **Drow-Magi** mit :roll:`1d4` **Drow-Elitekrieger**
+    
+    .. rtable_entry:: 
+        :min: 89
+        :max: 89
+
+        :roll:`1d10` **Vampirbruten**
+    
+    .. rtable_entry:: 
+        :min: 90
+        :max: 90
+
+        :roll:`1d3` **Mantler**
+    
+    .. rtable_entry:: 
+        :min: 91
+        :max: 91
+
+        :roll:`1d4` **Feuerriesen**
+    
+    .. rtable_entry:: 
+        :min: 92
+        :max: 92
+
+        1 **Gedankenschinder-Arkanist** mit :roll:`1d6+1` **Gedankenschindern**
+    
+    .. rtable_entry:: 
+        :min: 93
+        :max: 93
+
+        :roll:`1d4` **Dao**
+    
+    .. rtable_entry:: 
+        :min: 94
+        :max: 94
+
+        :roll:`1d8+1` **Drinnen**
+
+    
+    .. rtable_entry:: 
+        :min: 95
+        :max: 95
+
+        :roll:`1d3` **Behirs**
+    
+    .. rtable_entry:: 
+        :min: 96
+        :max: 96
+
+        :roll:`1d4` **Abolethen**
+    
+    .. rtable_entry:: 
+        :min: 97
+        :max: 97
+
+        1 **Betrachter**
+    
+    .. rtable_entry:: 
+        :min: 98
+        :max: 98
+
+        1 **Junger roter Schattendrache**
+    
+    .. rtable_entry:: 
+        :min: 99
+        :max: 99
+
+        1 **Todestyrann**
+    
+    .. rtable_entry:: 
+        :min: 100
+        :max: 100
+
+        1 **Purpurwurm**
+
 
 Underdark-Begegnungen (Stufe 17-20)
 -----------------------------------
