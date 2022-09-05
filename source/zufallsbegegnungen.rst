@@ -7152,6 +7152,75 @@ Unterwasserbegegnungen (Stufe 5-10)
 
 Unterwasserbegegnungen (Stufe 11-20)
 ------------------------------------
+.. rollingtable:: 
+    :die: 1d100
+    :result_titles: Begegnung
+
+    .. rtable_entry:: 
+        :min: 1
+        :max: 10
+
+        1 **Sahuagin-Baron** mit :roll:`1d4` **Sahuagin-Priesterinnen** und :roll:`2d10` **Sahuagin**
+    
+    .. rtable_entry:: 
+        :min: 11
+        :max: 35
+        
+        :roll:`1d10` **Killerwale**
+    
+    .. rtable_entry:: 
+        :min: 36
+        :max: 40
+
+        Ein Geisterschiff, welches oberhalb passiert und :roll:`2d6+10` **Geister** enthält.
+    
+    .. rtable_entry:: 
+        :min: 41
+        :max: 60
+
+        :roll:`1d6` **Riesenhaie**
+    
+    .. rtable_entry:: 
+        :min: 61
+        :max: 65
+
+        Eine Sphäre sprudelnden Wassers von 1,5km Durchmesser. Erlaubt es luftatmenden Wesen, Wasser zu atmen, solange sie sich in der Sphäre aufhalten.
+    
+    .. rtable_entry:: 
+        :min: 66
+        :max: 75
+
+        :roll:`1d10` **Wasserelementare**
+    
+    .. rtable_entry:: 
+        :min: 76
+        :max: 80
+
+        Ein schimmerndes blau-grünes Portal zur Elementarebene des Wassers
+    
+    .. rtable_entry:: 
+        :min: 81
+        :max: 90
+
+        :roll:`1d4` **Mariden**
+    
+    .. rtable_entry:: 
+        :min: 91
+        :max: 96
+
+        :roll:`1d3` **Sturmriesen**
+    
+    .. rtable_entry:: 
+        :min: 97
+        :max: 99
+
+        1 **Drachenschildkröte**
+    
+    .. rtable_entry:: 
+        :min: 100
+        :max: 100
+         
+        1 **Kraken**
 
 Waldbegegnungen
 ~~~~~~~~~~~~~~~
