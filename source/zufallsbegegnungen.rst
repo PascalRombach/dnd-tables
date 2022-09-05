@@ -6603,6 +6603,261 @@ Underdark-Begegnungen (Stufe 11-16)
 
 Underdark-Begegnungen (Stufe 17-20)
 -----------------------------------
+.. rollingtable:: 
+    :die: 1d100
+    :result_titles: Begegnung
+
+    .. rtable_entry:: 
+        :min: 1
+        :max: 1
+
+        :roll:`1d4` **Grick-Alphas**
+    
+    .. rtable_entry:: 
+        :min: 2
+        :max: 2
+
+        :roll:`2d8` **Beobachter**
+    
+    .. rtable_entry:: 
+        :min: 3
+        :max: 4
+
+        :roll:`3d6` **Minotauren** oder :roll:`2d8` **Kuo-toa-Monitore**
+    
+    .. rtable_entry:: 
+        :min: 5
+        :max: 6
+
+        :roll:`2d8` **Grells**
+    
+    .. rtable_entry:: 
+        :min: 7
+        :max: 8
+
+        :roll:`2d10` **Phasenspinnen**
+    
+    .. rtable_entry::
+        :min: 9
+        :max: 10
+
+        :roll:`4d4` **Höllenhunde**
+    
+    .. rtable_entry:: 
+        :min: 11
+        :max: 12
+
+        :roll:`1d6+2` **Seiler**
+    
+    .. rtable_entry:: 
+        :min: 13
+        :max: 14
+
+        :roll:`2d10` **Gruftschrecken**
+    
+    .. rtable_entry:: 
+        :min: 15
+        :max: 16
+
+        :roll:`3d6` **Doppelgänger**
+    
+    .. rtable_entry:: 
+        :min: 17
+        :max: 18
+
+        :roll:`1d8+1` **Chimären**
+    
+    .. rtable_entry:: 
+        :min: 19
+        :max: 20
+
+        :roll:`1d4` **Mantler**
+    
+    .. rtable_entry:: 
+        :min: 21
+        :max: 21
+
+        :roll:`1d4` **Hobgoblin-Hauptmänner** mit :roll:`5d10` **Hobgoblins**
+    
+    .. rtable_entry:: 
+        :min: 22
+        :max: 23
+
+        :roll:`1d8+1` **Erdelementare**
+    
+    .. rtable_entry:: 
+        :min: 24
+        :max: 25
+
+        :roll:`2d4` **Vampirbruten**
+    
+    .. rtable_entry:: 
+        :min: 26
+        :max: 27
+
+        :roll:`3d6` **Minotauren**
+    
+    .. rtable_entry:: 
+        :min: 28
+        :max: 30
+
+        Eine 9m hohe, umgedrehte schwarze Pyramide, die 2,5cm über dem Boden einer großen Höhle schwebt.
+    
+    .. rtable_entry:: 
+        :min: 31
+        :max: 32
+
+        :roll:`1d10` **Betrachter-Zombies**
+
+    .. rtable_entry:: 
+        :min: 33
+        :max: 34
+
+        :roll:`1d4` **Gedankenschinder-Arkanisten**
+    
+    .. rtable_entry:: 
+        :min: 35
+        :max: 36
+
+        :roll:`1d6+2` **Otyughs**
+    
+    .. rtable_entry:: 
+        :min: 37
+        :max: 38
+
+        :roll:`1d12` **Trolle**
+    
+    .. rtable_entry:: 
+        :min: 39
+        :max: 40
+
+        :roll:`1d10` **Todesalben**
+    
+    .. rtable_entry:: 
+        :min: 41
+        :max: 43
+
+        Eine wunderschöne Statuette eines Panthers aus Obsidian, die auf dem Boden liegt.
+    
+    .. rtable_entry:: 
+        :min: 44
+        :max: 45
+
+        :roll:`1d4` **Drow-Magi** mit :roll:`1d6` **Drow-Elitekriegern**
+    
+    .. rtable_entry:: 
+        :min: 46
+        :max: 47
+
+        :roll:`1d4` **Geisternagi**
+    
+    .. rtable_entry:: 
+        :min: 48
+        :max: 49
+
+        :roll:`1d8+1` **Salamander**
+    
+    .. rtable_entry:: 
+        :min: 50
+        :max: 51
+
+        :roll:`2d4` **Erdkolosse**
+    
+    .. rtable_entry::
+        :min: 52
+        :max: 53
+
+        :roll:`1d10` **Xorns**
+    
+    .. rtable_entry:: 
+        :min: 54
+        :max: 56
+        
+        1 **Junger roter Silberdrache**
+    
+    .. rtable_entry:: 
+        :min: 57
+        :max: 59
+
+        :roll:`2d4` **Fomorianer**
+    
+    .. rtable_entry:: 
+        :min: 60
+        :max: 62
+
+        :roll:`1d8+1` **Drinnen**
+    
+    .. rtable_entry::
+        :min: 63
+        :max: 65
+
+        :roll:`1d20+20` **Spinnen**, die an den Wänden einer mit Spinnweben gefüllten Höhle entlangkrabblen.
+    
+    .. rtable_entry:: 
+        :min: 66
+        :max: 68
+
+        :roll:`1d4` **Feuerriesen**
+    
+    .. rtable_entry:: 
+        :min: 69
+        :max: 70
+
+        :roll:`1d10` **Gedankenschinder**
+    
+    .. rtable_entry:: 
+        :min: 71
+        :max: 73
+
+        :roll:`2d4` **Steinriesen**
+    
+    .. rtable_entry:: 
+        :min: 74
+        :max: 76
+
+        :roll:`1d12` **Zyklopen**
+    
+    .. rtable_entry:: 
+        :min: 77
+        :max: 80
+
+        Eine große Höhle, in welcher eine 15m hohes Götzenbild des Blibdoolpoolp steht.
+    
+    .. rtable_entry:: 
+        :min: 81
+        :max: 85
+
+        :roll:`1d3` **Dao**
+    
+    .. rtable_entry:: 
+        :min: 86
+        :max: 90
+
+        :roll:`1d4` **Betrachter**
+    
+    .. rtable_entry:: 
+        :min: 91
+        :max: 93
+
+        :roll:`1d4` **Behire**
+    
+    .. rtable_entry:: 
+        :min: 94
+        :max: 96
+
+        1 **Todestyrann**
+    
+    .. rtable_entry:: 
+        :min: 97
+        :max: 99
+
+        :roll:`1d3` **Purpurwürmer**
+    
+    .. rtable_entry:: 
+        :min: 100
+        :max: 100
+
+        :roll:`2d4` **Abolethen**
 
 Unterwasserbegegnungen
 ~~~~~~~~~~~~~~~~~~~~~~
