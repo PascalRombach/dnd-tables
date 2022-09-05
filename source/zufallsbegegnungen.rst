@@ -5736,6 +5736,478 @@ Underdark-Begegnungen (Stufe 1-4)
 
 Underdark-Begegnungen (Stufe 5-10)
 ----------------------------------
+.. rollingtable:: 
+    :die: 1d100
+    :result_titles: Begegnung
+
+    .. rtable_entry:: 
+        :min: 1
+        :max: 1
+
+        :roll:`3d6` **Schwärme von Fledermäusen**
+    
+    .. rtable_entry:: 
+        :min: 2
+        :max: 2
+
+        :roll:`1d4` **Riesenspinnen** oder :roll:`1d4` **Riesenkröten**
+    
+    .. rtable_entry:: 
+        :min: 3
+        :max: 3
+
+        1 **Mimik**
+    
+    .. rtable_entry:: 
+        :min: 4
+        :max: 4
+
+        :roll:`2d4` **Grauschlicke**
+    
+    .. rtable_entry:: 
+        :min: 5
+        :max: 5
+
+        :roll:`2d10` **Orks** oder :roll:`3d6` **Troglodyten**
+    
+    .. rtable_entry:: 
+        :min: 6
+        :max: 6
+
+        :roll:`3d6` **Grimlocks**
+    
+    .. rtable_entry:: 
+        :min: 7
+        :max: 7
+
+        :roll:`1d6+2` **Magma-Mephiten**
+    
+    .. rtable_entry:: 
+        :min: 8
+        :max: 8
+
+        1 **Goblin-Boss** mit :roll:`2d4` **Goblins**
+    
+    .. rtable_entry:: 
+        :min: 9
+        :max: 9
+
+        :roll:`2d4` **Düstermäntel**
+    
+    .. rtable_entry:: 
+        :min: 10
+        :max: 10
+
+        :roll:`2d8+1` **Drow**
+    
+    .. rtable_entry:: 
+        :min: 11
+        :max: 11
+
+        :roll:`2d10` **Falldorne**
+    
+    .. rtable_entry:: 
+        :min: 12
+        :max: 12
+
+        :roll:`1d4` **Minotaurus-Skelette**
+    
+    .. rtable_entry:: 
+        :min: 13
+        :max: 14
+
+        :roll:`3d4` **Tiefengnome**
+    
+    .. rtable_entry::
+        :min: 15
+        :max: 15
+
+        1 **Druide** mit 1 **Eisbär** (Höhlenbär)
+    
+    .. rtable_entry:: 
+        :min: 16
+        :max: 17
+
+        :roll:`3d6` **Orks**
+    
+    .. rtable_entry:: 
+        :min: 18
+        :max: 18
+        
+         1 **Knochennaga**
+        
+    .. rtable_entry::
+        :min: 19
+        :max: 20
+
+        :roll:`2d6` **Grottenschrate**
+    
+    .. rtable_entry:: 
+        :min: 21
+        :max: 25
+
+        Leuchtende Pilze, welche an den Wänden einer feuchten Höhle wachsen und sie mit dämmrigem Licht erfüllen.
+
+    .. rtable_entry:: 
+        :min: 26
+        :max: 26
+
+        :roll:`2d4` **Schreckgespenster**
+    
+    .. rtable_entry:: 
+        :min: 27
+        :max: 27
+
+        :roll:`1d12+4` **Schatten**
+    
+    .. rtable_entry:: 
+        :min: 28
+        :max: 28
+
+        :roll:`1d3` **Plappernde Hundertmäuler**
+    
+    .. rtable_entry:: 
+        :min: 29
+        :max: 30
+
+        :roll:`4d4` **Hobgoblins**
+    
+    .. rtable_entry:: 
+        :min: 31
+        :max: 32
+
+        :roll:`1d4` **Aaskriecher**
+    
+    .. rtable_entry:: 
+        :min: 33
+        :max: 34
+
+        1 **Schwarzer Blob**
+    
+    .. rtable_entry:: 
+        :min: 35
+        :max: 35
+
+        :roll:`1d4` **Ockergallerte**
+    
+    .. rtable_entry:: 
+        :min: 36
+        :max: 40
+
+        Eine schimmlige Stelle, die gelb erscheint, wenn man Licht darauf fallen lässt.
+    
+    .. rtable_entry:: 
+        :min: 41
+        :max: 41
+
+        :roll:`1d4` **Nothics**
+    
+    .. rtable_entry:: 
+        :min: 42
+        :max: 43
+
+        :roll:`2d8+1` **Gassporen**
+    
+    .. rtable_entry:: 
+        :min: 44
+        :max: 45
+
+        :roll:`1d3` **Gallertwürfel**
+    
+    .. rtable_entry::
+        :min: 46
+        :max: 46
+
+        1 **Geist**
+    
+    .. rtable_entry:: 
+        :min: 47
+        :max: 48
+
+        1 **Flammenschädel**
+    
+    .. rtable_entry:: 
+        :min: 49
+        :max: 50
+
+        :roll:`2d8` **Duergar**
+    
+    .. rtable_entry:: 
+        :min: 51
+        :max: 51
+
+        1 **Todesalb**
+    
+    .. rtable_entry:: 
+        :min: 52
+        :max: 52
+
+        1 **Erdkoloss**
+    
+    .. rtable_entry:: 
+        :min: 53
+        :max: 53
+
+        1 **Xorn**
+    
+    .. rtable_entry:: 
+        :min: 54
+        :max: 54
+
+        :roll:`1d6+2` Zwergen-Jäger (**Veteranen**), die Trolle suchen
+    
+    .. rtable_entry:: 
+        :min: 55
+        :max: 55
+
+        1 **Hobgoblin-Hauptmann** mit :roll:`3d10` **Hobgoblins**
+    
+    .. rtable_entry:: 
+        :min: 56
+        :max: 56
+
+        1 **Seiler**
+    
+    .. rtable_entry:: 
+        :min: 57
+        :max: 57
+
+        1 **Kuo-toa-Monitor** mit :roll:`1d4` **Kuo-toa-Geißeln** und :roll:`1d8+1` **Kuo-toa**
+    
+    .. rtable_entry:: 
+        :min: 58
+        :max: 58
+
+        :roll:`1d3` **Wassergeister**
+    
+    .. rtable_entry:: 
+        :min: 59
+        :max: 59
+
+        :roll:`1d4` **Grule** mit :roll:`1d10` **Ghulen**
+    
+    .. rtable_entry:: 
+        :min: 60
+        :max: 60
+
+        1 **Otyugh**
+    
+    .. rtable_entry:: 
+        :min: 61
+        :max: 62
+
+        Eine Händlerkarawane bestehend aus 1 **Drow-Magus**, 2 **Drow-Elitekrieger** und :roll:`2d10` **Quaggoths**
+    
+    .. rtable_entry:: 
+        :min: 63
+        :max: 63
+
+        :roll:`1d4` **Gruftschrecken**
+    
+    .. rtable_entry:: 
+        :min: 64
+        :max: 64
+
+        :roll:`1d4` **Doppelgänger**
+    
+    .. rtable_entry:: 
+        :min: 65
+        :max: 65
+
+        :roll:`2d8` **Feuerschlangen**
+    
+    .. rtable_entry:: 
+        :min: 66
+        :max: 66
+
+        :roll:`1d4` **Beobachter**
+    
+    .. The following part might not be 100% accurate since the original table left the following at 67-67 and then 69 for the next
+    .. rtable_entry:: 
+        :min: 67
+        :max: 68
+
+        1 **Ork -- Auge des Gruumsh** mit :roll:`1d4` **Orogs** und :roll:`2d10+3` **Orks**
+
+    .. rtable_entry:: 
+        :min: 69
+        :max: 69
+
+        :roll:`1d3` **Vampirbruten**
+    
+    .. rtable_entry:: 
+        :min: 70
+        :max: 70
+
+        :roll:`3d6` **Quaggoth-Sporendiener**
+    
+    .. rtable_entry:: 
+        :min: 71
+        :max: 72
+
+        :roll:`1d3` **Grells**
+    
+    .. rtable_entry:: 
+        :min: 73
+        :max: 73
+
+        :roll:`1d6+1` **Intellektverschlinger**
+    
+    .. rtable_entry:: 
+        :min: 74
+        :max: 74
+
+        :roll:`1d10` **Gargylen**
+    
+    .. rtable_entry:: 
+        :min: 75
+        :max: 75
+
+        1 **Betrachter-Zombie**
+    
+    .. rtable_entry:: 
+        :min: 76
+        :max: 77
+
+        1 **Quaggoth-Thonot** mit :roll:`2d4` **Quaggoths**
+    
+    .. rtable_entry:: 
+        :min: 78
+        :max: 78
+
+        :roll:`1d6` **Ettins** oder :roll:`1d4` **Trolle**
+    
+    .. rtable_entry::
+        :min: 79
+        :max: 79
+
+        :roll:`1d8+1` **Phasenspinnen**
+    
+    .. rtable_entry:: 
+        :min: 80
+        :max: 80
+
+        1 **Fomorianer** oder :roll:`1d3` **Zyklopen**
+    
+    .. rtable_entry:: 
+        :min: 81
+        :max: 81
+
+        :roll:`1d4` **Erdelementare**
+    
+    .. rtable_entry:: 
+        :min: 82
+        :max: 82
+
+        :roll:`3d6` **Oger**
+    
+    .. rtable_entry:: 
+        :min: 83
+        :max: 83
+
+        :roll:`1d4+1` **Chuul**
+    
+    .. rtable_entry:: 
+        :min: 84
+        :max: 84
+
+        :roll:`1d10` **Höllenhunde**
+    
+    .. rtable_entry:: 
+        :min: 85
+        :max: 85
+
+        :roll:`1d3` **Drow-Elitekrieger**
+    
+    .. rtable_entry:: 
+        :min: 86
+        :max: 86
+
+        :roll:`1d4` **Chimären**
+    
+    .. rtable_entry:: 
+        :min: 87
+        :max: 87
+
+        :roll:`1d4` **Salamandar**
+    
+    .. rtable_entry:: 
+        :min: 88
+        :max: 88
+
+        1 **Mantler**
+    
+    .. rtable_entry:: 
+        :min: 89
+        :max: 89
+
+        :roll:`2d4` **Gruftschrecken**
+    
+    .. rtable_entry:: 
+        :min: 90
+        :max: 90
+
+        :roll:`1d4` **Drinnen**
+    
+    .. rtable_entry:: 
+        :min: 91
+        :max: 91
+
+        1 **Feuerrriese**
+    
+    .. rtable_entry:: 
+        :min: 92
+        :max: 92
+
+        1 **Grick-Alpha** mit :roll:`2d4` **Gricks**
+    
+    .. rtable_entry:: 
+        :min: 93
+        :max: 93
+
+        1 **Gedankenschinder-Arkanist**
+    
+    .. rtable_entry:: 
+        :min: 94
+        :max: 94
+
+        :roll:`1d4` **Drow-Magi**
+    
+    .. rtable_entry:: 
+        :min: 95
+        :max: 95
+
+        1 **Geisternaga**
+    
+    .. rtable_entry:: 
+        :min: 96
+        :max: 96
+
+        :roll:`1d4` **Gedankenschinder**
+    
+    .. rtable_entry:: 
+        :min: 97
+        :max: 97
+
+        1 **Behir**
+    
+    .. rtable_entry:: 
+        :min: 98
+        :max: 98
+
+        1 **Aboleth**
+    
+    .. rtable_entry:: 
+        :min: 99
+        :max: 99
+
+        1 **Dao** oder 1 **Steinriese**
+    
+    .. rtable_entry:: 
+        :min: 100
+        :max: 100
+
+        1 **Betrachter**
 
 Underdark-Begegnungen (Stufe 11-16)
 -----------------------------------
