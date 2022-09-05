@@ -22,7 +22,10 @@ const split_number_repr= (string, sep) => {
     return [Number.parseInt(a), Number.parseInt(b)];
 }
 const parse_range_str= (string) => {
-    return split_number_repr(string,"-");
+    let res= split_number_repr(string,"-");
+    if (isNaN(res[1])) res[1] = res[0];
+
+    return res;
 }
 
 const find_selected_element= (tbody, value) => {

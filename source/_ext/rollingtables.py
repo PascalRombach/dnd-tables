@@ -147,11 +147,15 @@ class RollingTableEntry(Directive):
         if not {"min","max"}.issubset(set(self.options.keys())):
             self.error("options :min: and :max: are required for rtable_entry")
               
-        
+        if self.options["min"] == self.options["max"]:
+            text_content = str(self.options["min"])
+        else:
+            text_content = f"{self.options['min']}-{self.options['max']}"
+
         row= nodes.row()
         
         d_entry= nodes.entry()
-        d_entry+= nodes.paragraph(text=f"{self.options['min']}-{self.options['max']}")
+        d_entry+= nodes.paragraph(text=text_content,classes=["rtable_number"])
         row+= d_entry
 
         res_entry= nodes.entry()
