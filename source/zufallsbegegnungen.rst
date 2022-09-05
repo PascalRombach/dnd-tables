@@ -7736,7 +7736,7 @@ Waldbegegnungen (Stufe 1-4)
 
         1 **Yuan-ti-Scheusal**
 
-Waldbegegnungen (Stufe 5-11)
+Waldbegegnungen (Stufe 5-10)
 ----------------------------
 .. rollingtable:: 
     :die: 1d100
