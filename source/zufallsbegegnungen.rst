@@ -7738,6 +7738,387 @@ Waldbegegnungen (Stufe 1-4)
 
 Waldbegegnungen (Stufe 5-11)
 ----------------------------
+.. rollingtable:: 
+    :die: 1d100
+    :result_titles: Begegnung
+
+    .. rtable_entry:: 
+        :min: 1
+        :max: 1
+
+        :roll:`2d4` **Rankenplagen**
+
+    .. rtable_entry:: 
+        :min: 2
+        :max: 2
+
+        :roll:`2d6` **Hobgoblins** oder :roll:`2d6` **Orks**
+    
+    .. rtable_entry:: 
+        :min: 3
+        :max: 3
+
+        :roll:`2d4` **Menschenaffen** oder :roll:`2d4` **Satyre**
+    
+    .. rtable_entry:: 
+        :min: 4
+        :max: 4
+
+        :roll:`1d3` **Irrlicht**
+    
+    .. rtable_entry::
+        :min: 5
+        :max: 5
+
+        :roll:`1d4` **Schwärme von Giftschlangen**
+    
+    .. rtable_entry:: 
+        :min: 6
+        :max: 6
+
+        1 **Ork -- Auge des Gruumsh** mit :roll:`1d3` **Orogs** und :roll:`1d8+2` **Orks**
+    
+    .. rtable_entry:: 
+        :min: 7
+        :max: 7
+
+        :roll:`1d3` **Würgeschlangen** oder :roll:`1d4` **Tiger**
+    
+    .. rtable_entry:: 
+        :min: 8
+        :max: 8
+
+        1 **Goblin-Boss** mit :roll:`3d6` **Goblins**
+    
+    .. rtable_entry:: 
+        :min: 9
+        :max: 9
+
+        1 **Feendrache** (beliebiges Alter)
+    
+    .. rtable_entry:: 
+        :min: 10
+        :max: 10
+
+        1 **Braunbär** oder :roll:`1d6+2` **Schwarzbären**
+    
+    .. rtable_entry::
+        :min: 11
+        :max: 13
+
+        :roll:`1d4` **Rieseneber**
+    
+    .. rtable_entry:: 
+        :min: 14
+        :max: 15
+
+        :roll:`1d8+1` **Riesenspinnen**
+    
+    .. rtable_entry:: 
+        :min: 16
+        :max: 17
+
+        1 **Echsenmenschen-Schamane** mit :roll:`2d4` **Echsenmenschen**
+    
+    .. rtable_entry:: 
+        :min: 18
+        :max: 18
+
+        :roll:`1d10` **Riesenkröten**
+    
+    .. rtable_entry:: 
+        :min: 19
+        :max: 19
+
+        :roll:`1d4` **Ankhegs**
+    
+    .. rtable_entry:: 
+        :min: 20
+        :max: 20
+
+        :roll:`1d3` **Erwachte Bäume** (Tag) oder 1 **Todesfee** (Nacht)
+    
+    .. rtable_entry:: 
+        :min: 21
+        :max: 25
+
+        Eine kleine Hütte, fast vom tiefen Wald versteckt. Das Innere ist bis auf einen großen gusseisernen Ofen leer.
+    
+    .. rtable_entry:: 
+        :min: 26
+        :max: 26
+
+        1 **Couatl**
+    
+    .. rtable_entry:: 
+        :min: 27
+        :max: 28
+
+        :roll:`1d4` **Oger** oder :roll:`1d6+2` **Halboger**
+    
+    .. rtable_entry:: 
+        :min: 29
+        :max: 30
+
+        1 **Gnoll-Rudelfürst** mit :roll:`1d4+1` **Riesenhyänen**
+    
+    .. rtable_entry:: 
+        :min: 31
+        :max: 32
+
+        :roll:`1d6` **Werratten**
+    
+    .. rtable_entry:: 
+        :min: 33
+        :max: 33
+
+        :roll:`1d4` **Gricks**
+    
+    .. rtable_entry:: 
+        :min: 34
+        :max: 34
+
+        :roll:`1d8+1` **Yuan-ti-Reinblütige**
+    
+    .. rtable_entry:: 
+        :min: 35
+        :max: 35
+
+        :roll:`1d6` **Pegasi**
+    
+    .. rtable_entry:: 
+        :min: 36
+        :max: 40
+
+        Ein alter Steinbogen von offensichtlich elfischer Bauart. Jeder Charakter, der ihn durchschreitet hat, für eine Stunde einen Vorteil auf Weisheitswürfe (Wahrnehmung)
+    
+    .. rtable_entry:: 
+        :min: 41
+        :max: 42
+
+        :roll:`1d6+2` **Dryaden**
+    
+    .. rtable_entry:: 
+        :min: 43
+        :max: 43
+
+        :roll:`1d4` **Riesenelche**
+    
+    .. rtable_entry:: 
+        :min: 44
+        :max: 44
+
+        :roll:`1d8+1` **Harpyien**
+    
+    .. rtable_entry:: 
+        :min: 45
+        :max: 46
+
+        1 **Banditenhauptmann** mit 1 **Druiden** und :roll:`1d6+5` **Banditen** 
+    
+    .. rtable_entry:: 
+        :min: 47
+        :max: 48
+
+        :roll:`2d4` **Schreckenswölfe**
+    
+    .. rtable_entry:: 
+        :min: 49
+        :max: 50
+
+        :roll:`2d4` **Grottenschrate**
+    
+    .. rtable_entry:: 
+        :min: 51
+        :max: 52
+
+        :roll:`2d4` **Zentauren**
+
+    .. rtable_entry:: 
+        :min: 53
+        :max: 54
+
+        :roll:`3d10` **Flimmerhunde**
+    
+    .. rtable_entry:: 
+        :min: 55
+        :max: 56
+
+        :roll:`1d4` **Eulenbären**
+    
+    .. rtable_entry:: 
+        :min: 57
+        :max: 58
+
+        :roll:`1d8+1` **Berserker**
+    
+    .. rtable_entry:: 
+        :min: 59
+        :max: 60
+
+        :roll:`1d3` **Grüne Vetteln**
+    
+    .. rtable_entry:: 
+        :min: 61
+        :max: 65
+
+        Ein Teich kaltem, klaren Wassers mit :roll:`1d6` schlafenden Tiefen an seinem Ufer.
+    
+    .. rtable_entry:: 
+        :min: 66
+        :max: 67
+
+        :roll:`1d4` **Werwölfe**
+    
+    .. rtable_entry:: 
+        :min: 68
+        :max: 69
+
+        1 **Werbär**
+    
+    .. rtable_entry:: 
+        :min: 70
+        :max: 71
+
+        :roll:`1d8+1` **Atterköppe**
+    
+    .. rtable_entry:: 
+        :min: 72
+        :max: 73
+
+        :roll:`2d10` **Elche**
+    
+    .. rtable_entry:: 
+        :min: 74
+        :max: 75
+
+        :roll:`1d4` **Veteranen**
+    
+    .. rtable_entry:: 
+        :min: 76
+        :max: 80
+
+        Ein alter Baum, in dessen Stamm ein runzeliges Gesicht geschnitzt wurde.
+    
+    .. rtable_entry:: 
+        :min: 81
+        :max: 81
+
+        :roll:`1d4` **Wereber**
+    
+    .. rtable_entry:: 
+        :min: 82
+        :max: 82
+
+        :roll:`2d4` **Täuschungsbestien**
+    
+    .. rtable_entry:: 
+        :min: 83
+        :max: 83
+
+        :roll:`1d4` **Modernde Schlürfer**
+    
+    .. rtable_entry:: 
+        :min: 84
+        :max: 84
+
+        1 **Hobgoblin-Hauptmann** mit :roll:`3d10` **Hobgoblins** und :roll:`4d12` **Goblins**
+    
+    .. rtable_entry::
+        :min: 85
+        :max: 85
+
+        1 **Yuan-ti-Scheusal**
+
+    .. rtable_entry:: 
+        :min: 86
+        :max: 86
+
+        :roll:`1d8+1` **Phasenspinnen**
+
+    .. rtable_entry:: 
+        :min: 87
+        :max: 87
+        
+        :roll:`1d4` **Trolle**
+    
+    .. rtable_entry:: 
+        :min: 88
+        :max: 88
+
+        :roll:`2d4` **Yuan-ti-Halbblütige**
+    
+    .. rtable_entry::
+        :min: 89
+        :max: 89
+
+        1 **Oni**
+
+    .. rtable_entry:: 
+        :min: 90
+        :max: 90
+
+        :roll:`1d4` **Einhörner**
+    
+    .. rtable_entry:: 
+        :min: 91
+        :max: 91
+
+        :roll:`1d6+2` **Wertiger**
+    
+    .. rtable_entry::
+        :min: 92
+        :max: 92
+
+        1 **Junger grüner Drache**
+    
+    .. rtable_entry::
+        :min: 93
+        :max: 93
+
+        :roll:`1d4` **Gorgonen**
+    
+    .. rtable_entry:: 
+        :min: 94
+        :max: 94
+
+        :roll:`1d6+2` **Gnoll-Reißzähne von Yeenoghu**
+    
+    .. rtable_entry::
+        :min: 95
+        :max: 95
+
+        1 **Baumhirte**
+    
+    .. rtable_entry:: 
+        :min: 96
+        :max: 96
+
+        :roll:`1d4` **Wiedergänger**
+    
+    .. rtable_entry:: 
+        :min: 97
+        :max: 97
+
+        1 **Grick-Alpha** mit :roll:`1d6+1` **Gricks**
+    
+    .. rtable_entry:: 
+        :min: 98
+        :max: 98
+
+        :roll:`1d4` **Riesenmenschenaffen**
+    
+    .. rtable_entry:: 
+        :min: 99
+        :max: 99
+
+        1 **Wächternaga**
+    
+    .. rtable_entry::
+        :min: 100
+        :max: 100
+
+        1 **Ausgewachsener Golddrache**
 
 Waldbegegnungen (Stufe 11-16)
 -----------------------------
