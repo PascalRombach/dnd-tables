@@ -8821,6 +8821,285 @@ Wüstenbegegnungen (Stufe 1-4)
 
 Wüstenbegegnungen (Stufe 5-10)
 ------------------------------
+.. rollingtable:: 
+    :die: 1d100
+    :result_titles: Begegnung
+
+    .. rtable_entry:: 
+        :min: 1
+        :max: 1
+
+        :roll:`1d6` **Kundschafter**
+    
+    .. rtable_entry:: 
+        :min: 2
+        :max: 2
+
+        :roll:`2d4` **Schakalwere**
+    
+    .. rtable_entry:: 
+        :min: 3
+        :max: 3
+
+        :roll:`2d6` **Hobgoblins**
+    
+    .. rtable_entry:: 
+        :min: 4
+        :max: 4
+
+        :roll:`1d4+3` **Staub-Mephits**
+    
+    .. rtable_entry:: 
+        :min: 5
+        :max: 5
+
+        :roll:`1d6` **Schwärme von Insekten**
+    
+    .. rtable_entry:: 
+        :min: 6
+        :max: 6
+
+        1 **Riesenwürgeschlange**
+    
+    .. rtable_entry:: 
+        :min: 7
+        :max: 8
+
+        1 **Löwe**
+    
+    .. rtable_entry:: 
+        :min: 9
+        :max: 10
+
+        :roll:`2d4` **Gnolle**
+    
+    .. rtable_entry:: 
+        :min: 11
+        :max: 12
+
+        :roll:`2d6` **Riesenkröten**
+    
+    .. rtable_entry:: 
+        :min: 13
+        :max: 17
+
+        1 **Mumie**
+    
+    .. rtable_entry:: 
+        :min: 18
+        :max: 20
+
+        :roll:`1d8+1` **Riesengeier**
+    
+    .. rtable_entry:: 
+        :min: 21
+        :max: 25
+
+        Ein Steinobelisk, teilweise im Sand vergraben
+    
+    .. rtable_entry:: 
+        :min: 26
+        :max: 28
+
+        1 **Oger** mit :roll:`1d3` **Halbogern**
+    
+    .. rtable_entry:: 
+        :min: 29
+        :max: 35
+
+        :roll:`1d10` **Riesenhyänen**
+    
+    .. rtable_entry:: 
+        :min: 36
+        :max: 40
+
+        :roll:`1d6+1` leere Zelte
+    
+    .. rtable_entry:: 
+        :min: 41
+        :max: 43
+
+        :roll:`1d6+2` **Thri-kreen**
+    
+    .. rtable_entry:: 
+        :min: 44
+        :max: 46
+
+        :roll:`2d4` **Yuan-ti-Reinblütige**
+    
+    .. rtable_entry:: 
+        :min: 47
+        :max: 50
+
+        :roll:`1d6+3` **Todeshunde**
+
+    .. rtable_entry:: 
+        :min: 51
+        :max: 52
+
+        :roll:`1d4` **Riesenskorpione**
+    
+    .. rtable_entry:: 
+        :min: 53
+        :max: 53
+
+        1 **Feuerelementar**
+    
+    .. rtable_entry:: 
+        :min: 54
+        :max: 55
+
+        1 **Hobgoblin-Hauptmann** mit :roll:`3d4` **Hobgoblins**
+    
+    .. rtable_entry:: 
+        :min: 56
+        :max: 56
+
+        :roll:`1d6+2` **Oger**
+    
+    .. rtable_entry:: 
+        :min: 57
+        :max: 58
+
+        :roll:`1d4` **Lamien**
+
+    .. rtable_entry:: 
+        :min: 59
+        :max: 60
+
+        1 **Luftelementar**
+    
+    .. rtable_entry:: 
+        :min: 61
+        :max: 65
+
+        Ein Meteor, der auf dem Grund eines gläsernen Kraters ruht.
+    
+    .. rtable_entry:: 
+        :min: 66
+        :max: 66
+
+        :roll:`1d4+1` **Gruftschrecken**
+    
+    .. rtable_entry:: 
+        :min: 67
+        :max: 68
+
+        1 **Junger Messingdrache**
+    
+    .. rtable_entry:: 
+        :min: 69
+        :max: 70
+
+        1 **Banditenhauptmann** mit :roll:`1d3` **Berserkern** und :roll:`3d6` **Banditen**
+    
+    .. rtable_entry:: 
+        :min: 71
+        :max: 72
+
+        1 **Zyklop**
+    
+    .. rtable_entry::
+        :min: 73
+        :max: 73
+
+        :roll:`1d4` **Couatl**
+    
+    .. rtable_entry:: 
+        :min: 74
+        :max: 75
+
+        :roll:`1d4` **Yuan-ti-Halbblütige**
+    
+    .. rtable_entry:: 
+        :min: 76
+        :max: 80
+
+        Heftiger Wind, der Sand aufwirbelt und die Sichtweite für die nächsten :roll:`1d4` Stunden auf :roll:`1d6` x30cm reduziert
+    
+    .. rtable_entry::
+        :min: 81
+        :max: 83
+
+        1 **Wiedergänger** mit :roll:`1d3` **Gruftschrecken**
+    
+    .. rtable_entry:: 
+        :min: 84
+        :max: 85
+
+        :roll:`1d8+1` **Phasenspinnen**
+    
+    .. rtable_entry:: 
+        :min: 86
+        :max: 87
+
+        :roll:`1d6+2` **Wertiger**
+    
+    .. rtable_entry:: 
+        :min: 88
+        :max: 90
+
+        :roll:`2d4` **Gnoll-Reißzähne von Yeenoghu**
+    
+    .. rtable_entry:: 
+        :min: 91
+        :max: 91
+
+        1 **Junger Blauer Drache**
+    
+    .. rtable_entry:: 
+        :min: 92
+        :max: 92
+
+        :roll:`1d4` **Zyklopen**
+    
+    .. rtable_entry:: 
+        :min: 93
+        :max: 93
+
+        :roll:`1d3` **Yuan-ti-Scheusal**
+    
+    .. rtable_entry:: 
+        :min: 94
+        :max: 94
+
+        :roll:`1d4` **Medusen**
+    
+    .. rtable_entry:: 
+        :min: 95
+        :max: 95
+
+        1 **Wächternaga**
+    
+    .. rtable_entry:: 
+        :min: 96
+        :max: 96
+
+        :roll:`1d3` **Junge Messingdrachen**
+    
+    .. rtable_entry:: 
+        :min: 97
+        :max: 97
+
+        1 **Ifrit**
+
+    .. rtable_entry:: 
+        :min: 98
+        :max: 98
+
+        1 **Roch**
+    
+    .. rtable_entry:: 
+        :min: 99
+        :max: 99
+
+        1 **Gynosphinx**
+    
+    .. rtable_entry:: 
+        :min: 100
+        :max: 100
+
+        1 **Ausgewachsener Messingdrache**
 
 Wüstenbegegnungen (Stufe 11-16)
 -------------------------------
