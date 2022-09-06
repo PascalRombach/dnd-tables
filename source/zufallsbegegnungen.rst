@@ -9103,6 +9103,226 @@ Wüstenbegegnungen (Stufe 5-10)
 
 Wüstenbegegnungen (Stufe 11-16)
 -------------------------------
+.. rollingtable:: 
+    :die: 1d100
+    :result_titles: Begegnung
+
+    .. rtable_entry:: 
+        :min: 1
+        :max: 1
+
+        1 **Junger Messingdrache**
+    
+    .. rtable_entry:: 
+        :min: 2
+        :max: 5
+
+        :roll:`4d6` **Gnolle**
+    
+    .. rtable_entry:: 
+        :min: 6
+        :max: 10
+
+        :roll:`3d10` **Riesenhyänen**
+    
+    .. rtable_entry:: 
+        :min: 11
+        :max: 12
+
+        :roll:`1d8+1` **Lamien**
+    
+    .. rtable_entry:: 
+        :min: 13
+        :max: 14
+
+        :roll:`2d4` **Gnoll-Reißzähne von Yeenoghu**
+    
+    .. rtable_entry:: 
+        :min: 15
+        :max: 17
+
+        :roll:`1d6+2` **Riesenskorpione**
+    
+    .. rtable_entry:: 
+        :min: 18
+        :max: 20
+
+        :roll:`2d4` **Phasenspinnen**
+    
+    .. rtable_entry:: 
+        :min: 21
+        :max: 25
+
+        Eine Wüstenkarawane aus :roll:`1d6` Händlern (**Adelige**) mit :roll:`2d6` **Wachen**
+    
+    .. rtable_entry:: 
+        :min: 26
+        :max: 27
+
+        :roll:`1d6+1` **Couatl**
+    
+    .. rtable_entry:: 
+        :min: 28
+        :max: 30
+
+        :roll:`1d4` **Feuerelementar**
+    
+    .. rtable_entry:: 
+        :min: 31
+        :max: 32
+
+        1 **Hobgoblin-Hauptmann** mit :roll:`3d10+10` **Hobgoblins**
+    
+    .. rtable_entry:: 
+        :min: 33
+        :max: 35
+
+        :roll:`2d4` **Gruftschrecken**
+    
+    .. rtable_entry:: 
+        :min: 36
+        :max: 40
+
+        :roll:`1d6` Quadratkilometer Wüstenglas
+    
+    .. rtable_entry:: 
+        :min: 41
+        :max: 42
+
+        1 **Junger blauer Drache**
+    
+    .. rtable_entry:: 
+        :min: 43
+        :max: 45
+
+        :roll:`1d6+2` **Wertiger**
+    
+    .. rtable_entry:: 
+        :min: 46
+        :max: 48
+
+        :roll:`1d4` **Luftelementare**
+    
+    .. rtable_entry:: 
+        :min: 49
+        :max: 50
+
+        :roll:`1d6+1` **Yuan-ti-Halbblütige**
+    
+    .. rtable_entry::
+        :min: 51
+        :max: 55
+
+        :roll:`1d4` **Medusen**
+    
+    .. rtable_entry:: 
+        :min: 56
+        :max: 60
+
+        :roll:`1d4` **Wiedergänger** mit :roll:`3d12` **Skeletten**
+    
+    .. rtable_entry:: 
+        :min: 61
+        :max: 65
+
+        Eine geplünderte Pyramide
+    
+    .. rtable_entry:: 
+        :min: 66
+        :max: 70
+
+        :roll:`1d4` **Junge Messingdrachen**
+    
+    .. rtable_entry:: 
+        :min: 71
+        :max: 75
+
+        :roll:`1d3` **Yuan-ti-Scheusale**
+    
+    .. rtable_entry:: 
+        :min: 76
+        :max: 78
+
+        :roll:`1d6+2` **Zyklopen**
+
+    .. Hier steht eigentlich "Erwachsener Messingdrache", doch dabei handelt es sich um eine Fehlübersetzung
+    .. rtable_entry::
+        :min: 79
+        :max: 82
+
+        1 **Ausgewachsener Messingdrache**
+    
+    .. rtable_entry::
+        :min: 83
+        :max: 85
+
+        1 **Purpurwurm**
+    
+    .. rtable_entry:: 
+        :min: 86
+        :max: 86
+
+        :roll:`1d2` **Junge blaue Drachen**
+    
+    .. rtable_entry:: 
+        :min: 87
+        :max: 88
+
+        1 **Mumienfürst**
+    
+    .. rtable_entry:: 
+        :min: 89
+        :max: 89
+
+        :roll:`1d3` **Wächternagi**
+    
+    .. rtable_entry:: 
+        :min: 90
+        :max: 90
+
+        1 **Ausgewachsener blauer Drache**
+    
+    .. rtable_entry:: 
+        :min: 91
+        :max: 91
+
+        :roll:`1d2` **Gynosphingen**
+    
+    .. rtable_entry:: 
+        :min: 92
+        :max: 93
+
+        :roll:`1d3` **Ifriti**
+    
+    .. rtable_entry:: 
+        :min: 94
+        :max: 94
+
+        1 **Androsphinx**
+    
+    .. rtable_entry:: 
+        :min: 95
+        :max: 95
+
+        :roll:`1d4` **Rochs**
+    
+    .. rtable_entry:: 
+        :min: 96
+        :max: 97
+
+        1 **Ausgewachsener blauer Drakolich**
+    
+    .. rtable_entry:: 
+        :min: 98
+        :max: 99
+
+        1 **Uralter Messingdrache**
+    
+    .. rtable_entry:: 
+        :min: 100
+        :max: 100
+
+        1 **Uralter blauer Drache**
 
 Wüstenbegegnungen (Stufe 17-20)
 -------------------------------
