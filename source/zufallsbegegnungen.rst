@@ -8122,6 +8122,207 @@ Waldbegegnungen (Stufe 5-10)
 
 Waldbegegnungen (Stufe 11-16)
 -----------------------------
+.. rollingtable:: 
+    :die: 1d100
+    :result_titles: Begegnung
+
+    .. rtable_entry:: 
+        :min: 1
+        :max: 3
+
+        1 **Werbär**
+    
+    .. rtable_entry:: 
+        :min: 4
+        :max: 5
+
+        :roll:`1d4` **Druiden**, die ein Ritual für die Toten praktizieren
+    
+    .. rtable_entry:: 
+        :min: 6
+        :max: 7
+
+        :roll:`1d3` **Couatl**
+    
+    .. rtable_entry:: 
+        :min: 8
+        :max: 10
+
+        :roll:`1d3` **Gnoll-Reißzähne von Yeenoghu**
+    
+    .. rtable_entry:: 
+        :min: 11
+        :max: 15
+
+        :roll:`2d4` **Täuschungsbestien**
+    
+    .. rtable_entry:: 
+        :min: 16
+        :max: 20
+
+        :roll:`1d6+2` **Veteranen**
+    
+    .. rtable_entry:: 
+        :min: 21
+        :max: 25
+
+        Ein Teich mit kaltem, klarem Wasser, Goldmünzen liegen am Grund verstreut, aber sie verschwinden, wenn man sie aus dem Teich nimmt.
+    
+    .. rtable_entry:: 
+        :min: 26
+        :max: 30
+
+        :roll:`1d4+1` **Grüne Vetteln** mit :roll:`1d3` **Eulenbären**
+    
+    .. rtable_entry::
+        :min: 31
+        :max: 35
+
+        :roll:`1d6+2` **Werwölfe**
+    
+    .. rtable_entry:: 
+        :min: 36
+        :max: 40
+
+        EIn kleiner Waldland-Schrein, welcher einem geheimnisvollen Kult, genannt die Siswa, geweiht ist.
+    
+    .. rtable_entry:: 
+        :min: 41
+        :max: 45
+
+        :roll:`1d6+2` **Phasenspinnen**
+    
+    .. rtable_entry:: 
+        :min: 46
+        :max: 50
+
+        :roll:`2d4` **Yuan-ti-Halbblütige**
+    
+    .. rtable_entry:: 
+        :min: 51
+        :max: 52
+
+        :roll:`1d3` **Werbären**
+    
+    .. rtable_entry:: 
+        :min: 53
+        :max: 54
+
+        :roll:`1d4` **Wiedergänger**
+    
+    .. rtable_entry:: 
+        :min: 55
+        :max: 56
+
+        1 **Junger grüner Drache**
+    
+    .. rtable_entry:: 
+        :min: 57
+        :max: 58
+
+        :roll:`1d4` **Trolle**
+    
+    .. rtable_entry:: 
+        :min: 59
+        :max: 60
+
+        :roll:`1d6+2` **Wereber**
+    
+    .. rtable_entry:: 
+        :min: 61
+        :max: 65
+
+        Ene Gruppe von sieben Leuten (**Gemeine**), die Tiermasken tragen und durch den Wald trotten
+    
+    .. rtable_entry:: 
+        :min: 66
+        :max: 67
+
+        :roll:`1d4` **Gorgonen**
+
+    .. rtable_entry:: 
+        :min: 68
+        :max: 69
+
+        :roll:`1d3` **Modernde Schlürfer**
+    
+    .. rtable_entry:: 
+        :min: 70
+        :max: 71
+
+        1 **Baumhirte**
+    
+    .. rtable_entry:: 
+        :min: 72
+        :max: 73
+
+        :roll:`1d3` **Einhörner**
+    
+    .. rtable_entry:: 
+        :min: 74
+        :max: 75
+
+        :roll:`1d6+2` **Wertiger**
+    
+    .. rtable_entry:: 
+        :min: 76
+        :max: 80
+
+        Der Klang silbernen Gelächters, der als Echo aus der Ferne dringt.
+    
+    .. rtable_entry:: 
+        :min: 81
+        :max: 82
+
+        1 **Wächternaga**
+    
+    .. rtable_entry:: 
+        :min: 83
+        :max: 84
+
+        1 **Junger Golddrache**
+    
+    .. rtable_entry:: 
+        :min: 85
+        :max: 86
+
+        1 **Grick-Alpha** mit :roll:`2d4` **Gricks**
+    
+    .. rtable_entry:: 
+        :min: 87
+        :max: 88
+
+        :roll:`1d3` **Yuan-ti-Scheusale**
+    
+    .. rtable_entry::
+        :min: 89
+        :max: 90
+
+        1 **Ausgewachsener grüner Drache**
+    
+    .. rtable_entry:: 
+        :min: 91
+        :max: 93
+
+        :roll:`1d8+1` **Riesenmenschenaffen**
+    
+    .. rtable_entry::
+        :min: 94
+        :max: 96
+
+        :roll:`2d4` **Oni**
+    
+    .. rtable_entry:: 
+        :min: 97
+        :max: 99
+
+        :roll:`1d3` **Baumhirten**
+    
+    .. rtable_entry:: 
+        :min: 100
+        :max: 100
+
+        1 **Uralter grüner Drache**
 
 Waldbegegnungen (Stufe 17-20)
 -----------------------------
