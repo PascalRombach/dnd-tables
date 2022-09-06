@@ -8477,4 +8477,355 @@ Waldbegegnungen (Stufe 17-20)
 Wüstenbegegnungen
 ~~~~~~~~~~~~~~~~~
 
+Wüstenbegegnungen (Stufe 1-4)
+-----------------------------
+.. rollingtable:: 
+    :die: 1d100
+    :result_titles: Begegnung
+
+    .. rtable_entry:: 
+        :min: 1
+        :max: 1
+
+        :roll:`3d8` **Skorpione**
+
+    .. rtable_entry:: 
+        :min: 2
+        :max: 2
+
+        :roll:`2d4` **Geier**
+    
+    .. rtable_entry:: 
+        :min: 3
+        :max: 3
+
+        1 zurückgelassenes **Maultier**
+    
+    .. rtable_entry:: 
+        :min: 4
+        :max: 4
+
+        :roll:`2d6` **Gemeine** und :roll:`2d4` **Kamele**, auf dem Weg zu einer fernen Stadt.
+    
+    .. rtable_entry:: 
+        :min: 5
+        :max: 5
+
+        :roll:`1d6` **Fliegende Schlangen**
+    
+    .. rtable_entry:: 
+        :min: 6
+        :max: 6
+
+        :roll:`2d6` **Hyänen** oder :roll:`2d6` **Schakale**
+    
+    .. rtable_entry:: 
+        :min: 7
+        :max: 7
+
+        :roll:`1d6` **Wachen**, die einen **Adeligen** zum Rand der Wüste bringen sollen, sie alle reiten auf **Kamelen**
+    
+    .. rtable_entry:: 
+        :min: 8
+        :max: 8
+
+        :roll:`1d6` **Katzen**
+    
+    .. rtable_entry:: 
+        :min: 9
+        :max: 9
+
+        1 **Pseudodrache**
+    
+    .. rtable_entry:: 
+        :min: 10
+        :max: 10
+
+        :roll:`1d4` **Giftschlangen**
+    
+    .. rtable_entry:: 
+        :min: 11
+        :max: 13
+
+        :roll:`2d4` **Blutmücken**
+    
+    .. rtable_entry:: 
+        :min: 14
+        :max: 15
+
+        :roll:`1d6+2` **Riesengiftschlangen**
+    
+    .. rtable_entry:: 
+        :min: 16
+        :max: 17
+
+        1 **Kundschafter**
+    
+    .. rtable_entry:: 
+        :min: 18
+        :max: 20
+
+        :roll:`2d4` **Riesengiftschlangen**
+    
+    .. rtable_entry::
+        :min: 21
+        :max: 25
+
+        Spuren von Kreaturen, die im Gänsemarsch tiefer in die Wüste gingen.
+    
+    .. rtable_entry:: 
+        :min: 26
+        :max: 27
+
+        :roll:`4d4` **Kobolde**
+    
+    .. rtable_entry:: 
+        :min: 28
+        :max: 29
+
+        1 **Schakalwer**
+    
+    .. rtable_entry:: 
+        :min: 30
+        :max: 31
+
+        :roll:`3d6` **Stammeskrieger**
+    
+    .. rtable_entry:: 
+        :min: 32
+        :max: 33
+
+        :roll:`1d6` **Rieseneidechsen**
+    
+    .. rtable_entry:: 
+        :min: 34
+        :max: 35
+
+        1 **Schwarm von Insekten**
+    
+    .. rtable_entry:: 
+        :min: 36
+        :max: 40
+
+        Eine von Palmen umgebene Oase, die die Überreste eines alten Lagers birgt.
+    
+    .. rtable_entry:: 
+        :min: 41
+        :max: 44
+
+        :roll:`3d6` **Banditen**
+    
+    .. rtable_entry:: 
+        :min: 45
+        :max: 46
+
+        :roll:`1d4` **Würgeschlangen**
+    
+    .. rtable_entry:: 
+        :min: 47
+        :max: 48
+
+        :roll:`2d4` **Geflügelte Kobolde**
+    
+    .. rtable_entry:: 
+        :min: 49
+        :max: 50
+
+        1 **Staub-Mephiten**
+    
+    .. rtable_entry:: 
+        :min: 51
+        :max: 52
+
+        :roll:`1d3+1` **Riesenkröten**
+    
+    .. rtable_entry:: 
+        :min: 53
+        :max: 54
+
+        :roll:`1d4` **Riesenspinnen**
+    
+    .. rtable_entry:: 
+        :min: 55
+        :max: 55
+
+        1 **Druide**
+    
+    .. rtable_entry:: 
+        :min: 56
+        :max: 57
+
+        :roll:`2d4` **Hobgoblins**
+    
+    .. rtable_entry:: 
+        :min: 58
+        :max: 58
+
+        1 **Gruftschrecken**
+    
+    .. rtable_entry:: 
+        :min: 59
+        :max: 60
+
+        1 **Oger**
+    
+    .. rtable_entry:: 
+        :min: 61
+        :max: 65
+
+        Eine Lampe aus Messing, die auf dem Boden liegt
+    
+    .. rtable_entry:: 
+        :min: 66
+        :max: 67
+
+        :roll:`1d4` **Riesengeier**
+    
+    .. rtable_entry::
+        :min: 68
+        :max: 68
+
+        1 **Phasenspinne**
+    
+    .. rtable_entry:: 
+        :min: 69
+        :max: 69
+
+        1 **Riesenwürgeschlange**
+    
+    .. rtable_entry:: 
+        :min: 70
+        :max: 71
+
+        1 **Gnoll-Rudelfürst** mit :roll:`1d3` **Riesenhyänen**
+    
+    .. rtable_entry::
+        :min: 72
+        :max: 72
+
+        :roll:`1d6+2` **Gnolle**
+    
+    .. rtable_entry:: 
+        :min: 73
+        :max: 74
+
+        1 **Mumie**
+    
+    .. rtable_entry:: 
+        :min: 75
+        :max: 75
+
+        :roll:`1d3` **Halboger**
+    
+    .. rtable_entry:: 
+        :min: 76
+        :max: 80
+
+        Ein Haufen menschlicher Knochen, umwickelt mit einem verwitterten Tuch
+    
+    .. rtable_entry:: 
+        :min: 81
+        :max: 82
+
+        1 **Lamia**
+    
+    .. rtable_entry:: 
+        :min: 83
+        :max: 83
+
+        1 **Hobgoblin-Hauptmann** mit :roll:`2d6` **Hobgoblins**
+    
+    .. rtable_entry:: 
+        :min: 84
+        :max: 84
+
+        :roll:`2d4` **Todeshunde**
+    
+    .. rtable_entry:: 
+        :min: 85
+        :max: 86
+
+        :roll:`1d4` **Riesenskorpione**
+    
+    .. rtable_entry:: 
+        :min: 87
+        :max: 87
+
+        1 **Yuan-ti-Halbblütiger** mit :roll:`1d4+1` **Yuan-ti-Reinblütigen**
+    
+    .. rtable_entry:: 
+        :min: 88
+        :max: 89
+
+        1 **Banditenhauptmann** mit 1 **Druiden** und :roll:`3d6` **Banditen**
+    
+    .. rtable_entry:: 
+        :min: 90
+        :max: 90
+
+        :roll:`2d4` **Thri-kreen**
+    
+    .. rtable_entry:: 
+        :min: 91
+        :max: 91
+
+        1 **Luftelementar**
+    
+    .. rtable_entry:: 
+        :min: 92
+        :max: 92
+
+        :roll:`1d3` **Couatl**
+    
+    .. rtable_entry:: 
+        :min: 93
+        :max: 94
+
+        :roll:`1d4` **Gnoll-Reißzähne von Yeenoghu**
+    
+    .. rtable_entry:: 
+        :min: 95
+        :max: 95
+
+        1 **Wiedergänger**
+    
+    .. rtable_entry:: 
+        :min: 96
+        :max: 96
+
+        :roll:`1d4` **Wertiger**
+    
+    .. rtable_entry:: 
+        :min: 97
+        :max: 97
+
+        1 **Zyklop**
+    
+    .. rtable_entry:: 
+        :min: 98
+        :max: 98
+
+        1 **Junger Messingdrache**
+    
+    .. rtable_entry:: 
+        :min: 99
+        :max: 99
+
+        1 **Medusa**
+    
+    .. rtable_entry:: 
+        :min: 100
+        :max: 100
+
+        1 **Yuan-ti-Scheusal**
+
+Wüstenbegegnungen (Stufe 5-10)
+------------------------------
+
+Wüstenbegegnungen (Stufe 11-16)
+-------------------------------
+
+Wüstenbegegnungen (Stufe 17-20)
+-------------------------------
+
 *XGE (DE) S. 92-112*
