@@ -8326,6 +8326,153 @@ Waldbegegnungen (Stufe 11-16)
 
 Waldbegegnungen (Stufe 17-20)
 -----------------------------
+.. rollingtable:: 
+    :die: 1d100
+    :result_titles: Begegnung
+
+    .. rtable_entry:: 
+        :min: 1
+        :max: 5
+
+        1 **Junger grüner Drache**
+    
+    .. rtable_entry:: 
+        :min: 6
+        :max: 10
+
+        1 **Baumhirte**
+    
+    .. rtable_entry:: 
+        :min: 11
+        :max: 13
+
+        1 **Wächternaga**
+    
+    .. rtable_entry:: 
+        :min: 14
+        :max: 16
+
+        :roll:`1d10` **Wiedergänger**
+    
+    .. rtable_entry:: 
+        :min: 17
+        :max: 19
+
+        :roll:`1d8+1` **Einhörner**
+    
+    .. rtable_entry:: 
+        :min: 20
+        :max: 22
+
+        :roll:`1d3` **Grick-Alphas**
+    
+    .. rtable_entry::
+        :min: 23
+        :max: 25
+
+        Für ein paar hundert m blühen Blumen, wo die CHaraktere hintreten und geben ein weiches Licht ab
+    
+    .. rtable_entry:: 
+        :min: 26
+        :max: 28
+
+        1 **Junger Golddrache**
+    
+    .. rtable_entry:: 
+        :min: 29
+        :max: 31
+
+        :roll:`1d6+2` **Modernde Schlürfer**
+    
+    .. rtable_entry:: 
+        :min: 32
+        :max: 34
+
+        :roll:`2d4` **Werbären**
+    
+    .. rtable_entry:: 
+        :min: 35
+        :max: 37
+
+        :roll:`1d4` **Oni**
+    
+    .. rtable_entry:: 
+        :min: 38
+        :max: 40
+
+        :roll:`4d6+10` **Elfen**, die in einer kleinen Ansiedlung in den Baumkronen wohnen.
+    
+    .. rtable_entry:: 
+        :min: 41
+        :max: 43
+
+        :roll:`1d6+2` **Gorgonen**
+    
+    .. rtable_entry:: 
+        :min: 44
+        :max: 46
+
+        :roll:`2d4` **Trolle**
+    
+    .. rtable_entry:: 
+        :min: 47
+        :max: 49
+
+        :roll:`1d4` **Riesenmenschenaffen**
+    
+    .. rtable_entry:: 
+        :min: 50
+        :max: 52
+
+        :roll:`1d3` **Yuan-ti-Scheusale**
+    
+    .. rtable_entry:: 
+        :min: 53
+        :max: 62
+
+        :roll:`1d3` **Junge grüne Drachen**
+    
+    .. rtable_entry:: 
+        :min: 63
+        :max: 65
+
+        Eine 15m hohe Steinstatue eines Elfenkriegers mit erhobener Hand, die Handfläche nach vorne, als ob sie Reisenden verbiete, diesen Weg zu nehmen.
+    
+    .. rtable_entry:: 
+        :min: 66
+        :max: 75
+
+        :roll:`1d4` **Baumhirten**
+    
+    .. rtable_entry:: 
+        :min: 76
+        :max: 80
+
+        Ein Hügelgrab auf einem flachen Hügel.
+    
+    .. rtable_entry:: 
+        :min: 81
+        :max: 90
+
+        1 **Ausgewachsener Golddrache**
+    
+    .. rtable_entry:: 
+        :min: 91
+        :max: 96
+
+        1 **Uralter grüner Drache**
+    
+    .. rtable_entry:: 
+        :min: 97
+        :max: 99
+
+        :roll:`2d4+1` **Baumhirten**
+    
+    .. rtable_entry:: 
+        :min: 100
+        :max: 100
+
+        1 **Uralter Golddrache**
 
 Wüstenbegegnungen
 ~~~~~~~~~~~~~~~~~
