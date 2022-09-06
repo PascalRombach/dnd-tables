@@ -9326,5 +9326,122 @@ Wüstenbegegnungen (Stufe 11-16)
 
 Wüstenbegegnungen (Stufe 17-20)
 -------------------------------
+.. rollingtable:: 
+    :die: 1d100
+    :result_titles: Begegnung
+
+    .. rtable_entry:: 
+        :min: 1
+        :max: 5
+
+        1 **Ausgewachsener Messingdrache**
+    
+    .. rtable_entry:: 
+        :min: 6
+        :max: 10
+
+        :roll:`1d2` **Yuan-ti-Scheusale** mit :roll:`2d10+5` **Yuan-ti-Halbblütigen** und :roll:`4d6+6` **Yuan-ti-Reinblütigen**
+    
+    .. rtable_entry:: 
+        :min: 11
+        :max: 14
+
+        :roll:`1d6+2` **Medusen**
+    
+    .. rtable_entry:: 
+        :min: 15
+        :max: 18
+
+        :roll:`1d2` **Purpurwürmer**
+
+    .. rtable_entry:: 
+        :min: 19
+        :max: 22
+        
+        :roll:`2d4` **Zyklopen**
+    
+    .. rtable_entry:: 
+        :min: 23
+        :max: 25
+
+        Eine verlassene Stadt aus weißem Marmor. Leer bei Tage. Bei Nacht streifen harmlose Erscheinungen durch die Straßen und spielen die letzten Momente ihrer Leben nach.
+    
+    .. rtable_entry:: 
+        :min: 26
+        :max: 30
+
+        :roll:`1d3` **Junge blaue Drachen**
+    
+    .. rtable_entry:: 
+        :min: 31
+        :max: 35
+
+        1 **Mumienfürst**
+    
+    .. rtable_entry:: 
+        :min: 36
+        :max: 40
+
+        :roll:`1d4` Stunden extremer Hitze (siehe Kapitel 5 des *Dungeon Master's Guide (Spielleiterhandbuch)*)
+    
+    .. rtable_entry:: 
+        :min: 41
+        :max: 50
+
+        :roll:`1d3` **Wächternagi**
+    
+    .. rtable_entry:: 
+        :min: 51
+        :max: 60
+
+        :roll:`1d4` **Ifrit**
+    
+    .. rtable_entry:: 
+        :min: 61
+        :max: 63
+
+        Ein alter Wegweiser, der nur an einen Ort, genannt Pazar, deutet.
+    
+    .. rtable_entry:: 
+        :min: 64
+        :max: 72
+
+        :roll:`1d4` **Rochs**
+    
+    .. rtable_entry:: 
+        :min: 73
+        :max: 80
+
+        :roll:`1d3` **Gynosphingen**
+    
+    .. rtable_entry:: 
+        :min: 81
+        :max: 85
+
+        1 **Ausgewachsener blauer Drakolich**
+    
+    .. rtable_entry:: 
+        :min: 86
+        :max: 90
+
+        1 **Androsphinx**
+    
+    .. rtable_entry:: 
+        :min: 91
+        :max: 96
+
+        1 **Uralter Messingdrache**
+    
+    .. rtable_entry:: 
+        :min: 97
+        :max: 99
+
+        1 **Uralter blauer Drache**
+    
+    .. rtable_entry:: 
+        :min: 100
+        :max: 100
+
+        :roll:`1d4` **Ausgewachsene Messingdrachen**
 
 *XGE (DE) S. 92-112*
