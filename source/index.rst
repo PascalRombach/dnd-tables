@@ -16,8 +16,8 @@ D&D Tabellen
    gewoelbe
    wetter
    orte_in_der_wildnis
-   zufallsbegegnungen
    kampagnenereignisse
+   begegnungen/index
    
 
 
