@@ -6,3 +6,7 @@
 .rtable_number{
     text-align: center;
 }
+
+.rollingtable > colgroup{
+    display: none;
+}
