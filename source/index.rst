@@ -18,6 +18,7 @@ D&D Tabellen
    orte_in_der_wildnis
    kampagnenereignisse
    begegnungen/index
+   schatz/index
    
 
 
