@@ -5,3 +5,4 @@ Schatztabellen
     :maxdepth: 1
 
     edelsteine
+    kunstgegenstaende
