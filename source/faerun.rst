@@ -123,3 +123,54 @@ Exotische Sprachen
 | Gemeinsprache der  | Unterreichhändler                 | Elfisch         |
 | Unterreiche        |                                   |                 |
 +--------------------+-----------------------------------+-----------------+
+
+
+Erklärung der Hintergründe
+==========================
+Adeliger (Hintergrund)
+~~~~~~~~~~~~~~~~~~~~~~
+Du bist adeliger Herkunft. Dies muss kein sonderlich mächtiger Adel sein, aber deine Abstammung hebt dich über das normale Volk
+
+Zunfthandwerker (Hintergrund)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Du hast in einer Handwerkszunft gearbeitet. Vor deinen Abenteuern war dein Leben das Erschaffen von Dingen.
+
+Krimineller (Hintergrund)
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Ein Leben von Verbrechen ist deine Vergangenheit. Dies kann unterschiedlichste Arten annehmen.
+
+Scharlatan (Hintergrund)
+~~~~~~~~~~~~~~~~~~~~~~~~
+Deinen Lebensunterhalt hast du dir damit verdient andere bildlich über den Tisch zu ziehen. Du hast betrogen und geschummelt, um an dein Geld zu gelangen
+
+Seemann (Hintergrund)
+~~~~~~~~~~~~~~~~~~~~~
+Ein Leben auf der See, auf einem Schiff dienen und neue Hafen besuchen. Das ist, was du als Seemann getan hast.
+
+Soldat (Hintergrund)
+~~~~~~~~~~~~~~~~~~~~
+Du hast in der Armee gekämpft und für dein Land/deine Stadt eingestanden.
+
+Sonderling (Hintergrund)
+~~~~~~~~~~~~~~~~~~~~~~~~
+Du hast dein Leben alleine in der Wildnis verbracht. Dein Kontakt zu Städten und Dörfern beschränkte sich auf ein Minimum.
+
+Straßenkind (Hintergrund)
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Du bist auf der Straße aufgewachsen und musstest dir dort deinen Lebensunterhalt zusammenbetteln. Keine besonders wünschenswerte Herkunft, doch aus dem kleinsten Spross kann etwas ganz großes wachsen.
+
+Tempeldiener (Hintergrund)
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Du hast dein Leben lang einer Gottheit gedient und Tag ein Tag aus opfer gebracht und gebetet und andere mit deiner Gottheit in Verbindung gebracht.
+
+Unterhaltungskünstler (Hintergrund)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Andere zu unterhalten ist das, worauf du dein Leben ausgerichtet hast. Das Glück in anderen durch deine Kunst erwecken und hoffentlich danach auch ihre Geldbörsen.
+
+Volksheld (Hintergrund)
+~~~~~~~~~~~~~~~~~~~~~~~
+Von niedrigen Anfängen bist du in deiner Heimat groß aufgestiegen. Du hast dein Volk vor einer Gefahr geschützt und das werden sie dir ein Leben lang nicht vergessen.
+
+Weiser (Hintergrund)
+~~~~~~~~~~~~~~~~~~~~
+Wissen sammeln und Wissen verbreiten, das ist, womit du dich beschäftigt hast. Du hast Informationen aus aller Welt zusammengesammelt und alles liegt in deinem Kopf nun zugriffsbereit.
