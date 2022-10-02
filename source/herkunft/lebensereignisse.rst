@@ -459,7 +459,7 @@ Seltsame Begebenheiten
         :min: 7
         :max: 7
 
-        Du warst :roll:`1d6` Jahre lang wahnsinnig und bist erst seit kurzem wieder bei klarem Verstand. Ein TIck oder eine andere seltsame Verhaltensweise ist vielleicht zurückgeblieben.
+        Du warst :roll:`1d6` Jahre lang wahnsinnig und bist erst seit kurzem wieder bei klarem Verstand. Ein Tick oder eine andere seltsame Verhaltensweise ist vielleicht zurückgeblieben.
     
     .. rtable_entry::
         :min: 8
