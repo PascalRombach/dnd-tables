@@ -10,7 +10,7 @@ D&D Tabellen
    :maxdepth: 3
    :caption: Inhaltsverzeichnis:
    
-   gottheiten
+   faerun
    nsc
    zufallssiedlungen
    gewoelbe
