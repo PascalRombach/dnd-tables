@@ -487,7 +487,7 @@ Volksheld
         :min: 3
         :max: 3
 
-        Ich hasste mein stumpfsinniges Leben, und als die Zeit gekommen war, zu handeln und das Richtige zu tun, habe ich mich der Harausforderung gestellt.
+        Ich hasste mein stumpfsinniges Leben, und als die Zeit gekommen war, zu handeln und das Richtige zu tun, habe ich mich der Herausforderung gestellt.
     
     .. rtable_entry::
         :min: 4
@@ -499,7 +499,7 @@ Volksheld
         :min: 5
         :max: 5
 
-        Ein verrückter, alter Einsiedler hat bei meiner Geburt eine prophezieung ausgesprochen, in der es hieß, ich wäre dazu bestimmt, einst große Dinge zu vollbringen.
+        Ein verrückter, alter Einsiedler hat bei meiner Geburt eine Prophezeiung ausgesprochen, in der es hieß, ich wäre dazu bestimmt, einst große Dinge zu vollbringen.
 
     .. rtable_entry:: 
         :min: 6
